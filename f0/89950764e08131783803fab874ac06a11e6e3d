@@ -1,0 +1,178 @@
+bin/configs/java-wildcard-accept-header.yaml
+  h_8d0f094ade234d 1-8
+docs/generators/ruby.md
+  h_8d0f094ade234d 32
+docs/generators/typescript-fetch.md
+  h_8d0f094ade234d 22
+docs/global-properties.md
+  h_8d0f094ade234d 39-47
+modules/openapi-generator/src/main/java/org/openapitools/codegen/DefaultCodegen.java
+  h_8d0f094ade234d 1254-1267,4997-5002,5006-5008,7764-7766,7779-7784
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/AbstractJavaCodegen.java
+  h_8d0f094ade234d 53,1990,2082-2097,2552,2702-2730,3125-3126
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/RubyClientCodegen.java
+  h_8d0f094ade234d 72,167
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/RustServerCodegenDeprecated.java
+  h_8d0f094ade234d 752-754
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/TypeScriptFetchClientCodegen.java
+  h_8d0f094ade234d 165,1155-1158
+modules/openapi-generator/src/main/java/org/openapitools/codegen/templating/mustache/EscapeJavaDocLambda.java
+  h_8d0f094ade234d 1-33
+modules/openapi-generator/src/main/resources/Java/api.mustache
+  h_8d0f094ade234d 48
+modules/openapi-generator/src/main/resources/Java/libraries/apache-httpclient/api.mustache
+  h_8d0f094ade234d 49,75
+modules/openapi-generator/src/main/resources/Java/libraries/feign/api.mustache
+  h_8d0f094ade234d 33,63,100,107,140,147
+modules/openapi-generator/src/main/resources/Java/libraries/jersey2/api.mustache
+  h_8d0f094ade234d 63,100,223
+modules/openapi-generator/src/main/resources/Java/libraries/jersey3/api.mustache
+  h_8d0f094ade234d 63,100,229
+modules/openapi-generator/src/main/resources/Java/libraries/microprofile/api.mustache
+  h_8d0f094ade234d 112
+modules/openapi-generator/src/main/resources/Java/libraries/native/api.mustache
+  h_8d0f094ade234d 325,355,400,423
+modules/openapi-generator/src/main/resources/Java/libraries/okhttp-gson/api.mustache
+  h_8d0f094ade234d 95,289,330,398,451
+modules/openapi-generator/src/main/resources/Java/libraries/rest-assured/api.mustache
+  h_8d0f094ade234d 131,192,205,218,231,245,260
+modules/openapi-generator/src/main/resources/Java/libraries/resteasy/api.mustache
+  h_8d0f094ade234d 44
+modules/openapi-generator/src/main/resources/Java/libraries/resttemplate/api.mustache
+  h_8d0f094ade234d 64,97
+modules/openapi-generator/src/main/resources/Java/libraries/retrofit2/api.mustache
+  h_8d0f094ade234d 49
+modules/openapi-generator/src/main/resources/Java/libraries/retrofit2/play24/api.mustache
+  h_8d0f094ade234d 32
+modules/openapi-generator/src/main/resources/Java/libraries/retrofit2/play25/api.mustache
+  h_8d0f094ade234d 32
+modules/openapi-generator/src/main/resources/Java/libraries/retrofit2/play26/api.mustache
+  h_8d0f094ade234d 40
+modules/openapi-generator/src/main/resources/Java/libraries/vertx/apiImpl.mustache
+  h_8d0f094ade234d 51,63
+modules/openapi-generator/src/main/resources/Java/libraries/vertx/rxApiImpl.mustache
+  h_8d0f094ade234d 43,55,68,91
+modules/openapi-generator/src/main/resources/ruby-client/rubocop.mustache
+  h_8d0f094ade234d 4
+modules/openapi-generator/src/test/java/org/openapitools/codegen/DefaultCodegenTest.java
+  h_8d0f094ade234d 5471-5522
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/AbstractJavaCodegenTest.java
+  h_8d0f094ade234d 23,48,1120-1156
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/spring/SpringCodegenTest.java
+  h_8d0f094ade234d 2699-2726
+modules/openapi-generator/src/test/java/org/openapitools/codegen/templating/mustache/EscapeJavaDocLambdaTest.java
+  h_8d0f094ade234d 1-48
+modules/openapi-generator/src/test/resources/3_0/issue6708-split-by-content-type-error-responses.yaml
+  h_8d0f094ade234d 1-118
+modules/openapi-generator/src/test/resources/3_0/wildcard-accept-header.yaml
+  h_8d0f094ade234d 1-18
+samples/client/echo_api/ruby-faraday/.rubocop.yml
+  h_8d0f094ade234d 4
+samples/client/echo_api/ruby-httpx/.rubocop.yml
+  h_8d0f094ade234d 4
+samples/client/echo_api/ruby-typhoeus/.rubocop.yml
+  h_8d0f094ade234d 4
+samples/client/petstore/ruby-autoload/.rubocop.yml
+  h_8d0f094ade234d 4
+samples/client/petstore/ruby-faraday/.rubocop.yml
+  h_8d0f094ade234d 4
+samples/client/petstore/ruby-httpx/.rubocop.yml
+  h_8d0f094ade234d 4
+samples/client/petstore/ruby/.rubocop.yml
+  h_8d0f094ade234d 4
+samples/client/wildcard-accept-header/java/.github/workflows/maven.yml
+  h_8d0f094ade234d 1-30
+samples/client/wildcard-accept-header/java/.gitignore
+  h_8d0f094ade234d 1-21
+samples/client/wildcard-accept-header/java/.openapi-generator-ignore
+  h_8d0f094ade234d 1-23
+samples/client/wildcard-accept-header/java/.openapi-generator/FILES
+  h_8d0f094ade234d 1-36
+samples/client/wildcard-accept-header/java/.openapi-generator/VERSION
+  h_8d0f094ade234d 1
+samples/client/wildcard-accept-header/java/.travis.yml
+  h_8d0f094ade234d 1-22
+samples/client/wildcard-accept-header/java/README.md
+  h_8d0f094ade234d 1-136
+samples/client/wildcard-accept-header/java/api/openapi.yaml
+  h_8d0f094ade234d 1-27
+samples/client/wildcard-accept-header/java/build.gradle
+  h_8d0f094ade234d 1-168
+samples/client/wildcard-accept-header/java/build.sbt
+  h_8d0f094ade234d 1-27
+samples/client/wildcard-accept-header/java/docs/DefaultApi.md
+  h_8d0f094ade234d 1-68
+samples/client/wildcard-accept-header/java/git_push.sh
+  h_8d0f094ade234d 1-54
+samples/client/wildcard-accept-header/java/gradle.properties
+  h_8d0f094ade234d 1-6
+samples/client/wildcard-accept-header/java/gradle/wrapper/gradle-wrapper.properties
+  h_8d0f094ade234d 1-7
+samples/client/wildcard-accept-header/java/gradlew
+  h_8d0f094ade234d 1-249
+samples/client/wildcard-accept-header/java/gradlew.bat
+  h_8d0f094ade234d 1-92
+samples/client/wildcard-accept-header/java/pom.xml
+  h_8d0f094ade234d 1-340
+samples/client/wildcard-accept-header/java/settings.gradle
+  h_8d0f094ade234d 1
+samples/client/wildcard-accept-header/java/src/main/AndroidManifest.xml
+  h_8d0f094ade234d 1-3
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/ApiCallback.java
+  h_8d0f094ade234d 1-62
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 1-1642
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/ApiException.java
+  h_8d0f094ade234d 1-167
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/ApiResponse.java
+  h_8d0f094ade234d 1-76
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/Configuration.java
+  h_8d0f094ade234d 1-63
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/GzipRequestInterceptor.java
+  h_8d0f094ade234d 1-85
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/JSON.java
+  h_8d0f094ade234d 1-482
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/Pair.java
+  h_8d0f094ade234d 1-37
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/ProgressRequestBody.java
+  h_8d0f094ade234d 1-73
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/ProgressResponseBody.java
+  h_8d0f094ade234d 1-70
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/ServerConfiguration.java
+  h_8d0f094ade234d 1-72
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/ServerVariable.java
+  h_8d0f094ade234d 1-37
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/StringUtil.java
+  h_8d0f094ade234d 1-83
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/api/DefaultApi.java
+  h_8d0f094ade234d 1-195
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/auth/ApiKeyAuth.java
+  h_8d0f094ade234d 1-80
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/auth/Authentication.java
+  h_8d0f094ade234d 1-37
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/auth/HttpBasicAuth.java
+  h_8d0f094ade234d 1-55
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/auth/HttpBearerAuth.java
+  h_8d0f094ade234d 1-75
+samples/client/wildcard-accept-header/java/src/main/java/org/openapitools/client/model/AbstractOpenApiSchema.java
+  h_8d0f094ade234d 1-143
+samples/client/wildcard-accept-header/java/src/test/java/org/openapitools/client/api/DefaultApiTest.java
+  h_8d0f094ade234d 1-43
+samples/openapi3/client/extensions/x-auth-id-alias/ruby-client/.rubocop.yml
+  h_8d0f094ade234d 4
+samples/openapi3/client/features/dynamic-servers/ruby/.rubocop.yml
+  h_8d0f094ade234d 4
+samples/openapi3/client/features/generate-alias-as-model/ruby-client/.rubocop.yml
+  h_8d0f094ade234d 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f089950764e08131783803fab874ac06a11e6e3d",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
