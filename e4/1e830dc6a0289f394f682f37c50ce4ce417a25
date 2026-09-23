@@ -1,0 +1,24 @@
+samples/client/petstore/java/okhttp-gson-3.1/docs/PetWithTypesObjectNullAndRef.md
+  h_8d0f094ade234d 12
+samples/client/petstore/java/okhttp-gson-3.1/src/main/java/org/openapitools/client/model/PetWithTypesObjectNullAndRef.java
+  h_8d0f094ade234d 69,112,122,126
+samples/client/petstore/java/okhttp-gson-dynamicOperations/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1402,1404,1408,1496,1498,1502,1520,1522,1526,1546,1548,1552
+samples/client/petstore/java/okhttp-gson-parcelableModel/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1330,1332,1336,1436,1438,1442,1460,1462,1466,1486,1488,1492
+samples/client/petstore/java/okhttp-gson/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1984,2138,2168,2200,2223,2225,2229,2329,2331,2335,2353,2355,2359,2379,2381,2385
+samples/client/petstore/java/okhttp-gson/src/main/java/org/openapitools/client/model/NestedArrayWithDefaultValues.java
+  h_8d0f094ade234d 59,71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e41e830dc6a0289f394f682f37c50ce4ce417a25",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
