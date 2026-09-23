@@ -1,0 +1,54 @@
+samples/server/petstore/java-play-framework-api-package-override/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-async/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-controller-only/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-fake-endpoints-with-security/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/AdditionalPropertiesClass.java
+  h_8d0f094ade234d 21,26,30,34,39,44,49,54
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/ArrayOfArrayOfNumberOnly.java
+  h_8d0f094ade234d 22
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/ArrayOfNumberOnly.java
+  h_8d0f094ade234d 22
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/ArrayTest.java
+  h_8d0f094ade234d 21,26,31
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/EnumArrays.java
+  h_8d0f094ade234d 86
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/FileSchemaTestClass.java
+  h_8d0f094ade234d 27
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/MapTest.java
+  h_8d0f094ade234d 20,55,59,63
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 33
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/Pet.java
+  h_8d0f094ade234d 45
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/XmlItem.java
+  h_8d0f094ade234d 38,59,63,84,88,109,113,134,138
+samples/server/petstore/java-play-framework-no-bean-validation/app/apimodels/Pet.java
+  h_8d0f094ade234d 31
+samples/server/petstore/java-play-framework-no-excp-handling/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-no-interface/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-no-nullable/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-no-swagger-ui/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-no-wrap-calls/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7b52a7ff269bebaa6cceeefd9b99e18cb5fbcd5d",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
