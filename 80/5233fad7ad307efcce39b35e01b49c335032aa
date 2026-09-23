@@ -1,0 +1,22 @@
+modules/openapi-generator/src/main/resources/Java/libraries/jersey3/pojo.mustache
+  h_8d0f094ade234d 73
+modules/openapi-generator/src/main/resources/JavaPlayFramework/pojo.mustache
+  h_8d0f094ade234d 41
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/JavaClientCodegenTest.java
+  h_8d0f094ade234d 537-541,552-574
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/play/JavaPlayFrameworkCodegenTest.java
+  h_8d0f094ade234d 33,119-151
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/spring/SpringCodegenTest.java
+  h_8d0f094ade234d 101-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "805233fad7ad307efcce39b35e01b49c335032aa",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
