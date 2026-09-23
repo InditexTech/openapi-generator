@@ -1,0 +1,14 @@
+samples/client/wildcard-accept-header/java/build.gradle
+  h_8d0f094ade234d 27-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8728cb4b799c57c3cdec3ea504714394df1c6a86",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
