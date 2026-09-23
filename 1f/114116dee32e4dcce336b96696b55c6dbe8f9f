@@ -1,0 +1,956 @@
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/AbstractJavaCodegen.java
+  h_8d0f094ade234d 1645-1653
+modules/openapi-generator/src/main/resources/Java/libraries/feign/pojo.mustache
+  h_8d0f094ade234d 129,140,152,164
+modules/openapi-generator/src/main/resources/Java/libraries/jersey2/pojo.mustache
+  h_8d0f094ade234d 139,150,162,173
+modules/openapi-generator/src/main/resources/Java/libraries/jersey3/pojo.mustache
+  h_8d0f094ade234d 139,150,162,173
+modules/openapi-generator/src/main/resources/Java/libraries/microprofile/pojo.mustache
+  h_8d0f094ade234d 135,145
+modules/openapi-generator/src/main/resources/Java/libraries/native/pojo.mustache
+  h_8d0f094ade234d 130,141,153,164
+modules/openapi-generator/src/main/resources/Java/libraries/okhttp-gson/pojo.mustache
+  h_8d0f094ade234d 126,136
+modules/openapi-generator/src/main/resources/Java/libraries/restclient/pojo.mustache
+  h_8d0f094ade234d 155,166,178,190
+modules/openapi-generator/src/main/resources/Java/libraries/resttemplate/pojo.mustache
+  h_8d0f094ade234d 155,166,178,190
+modules/openapi-generator/src/main/resources/Java/libraries/webclient/pojo.mustache
+  h_8d0f094ade234d 155,166,178,190
+modules/openapi-generator/src/main/resources/Java/pojo.mustache
+  h_8d0f094ade234d 158,169,181,193
+modules/openapi-generator/src/main/resources/JavaJaxRS/cxf-cdi/pojo.mustache
+  h_8d0f094ade234d 55,66
+modules/openapi-generator/src/main/resources/JavaJaxRS/cxf/pojo.mustache
+  h_8d0f094ade234d 174,190
+modules/openapi-generator/src/main/resources/JavaJaxRS/libraries/jersey3/pojo.mustache
+  h_8d0f094ade234d 53,63
+modules/openapi-generator/src/main/resources/JavaJaxRS/pojo.mustache
+  h_8d0f094ade234d 53,63
+modules/openapi-generator/src/main/resources/JavaJaxRS/spec/pojo.mustache
+  h_8d0f094ade234d 211,222,265,276,388
+modules/openapi-generator/src/main/resources/JavaPlayFramework/pojo.mustache
+  h_8d0f094ade234d 60,70
+modules/openapi-generator/src/main/resources/JavaSpring/pojo.mustache
+  h_8d0f094ade234d 171,177,189,195
+modules/openapi-generator/src/main/resources/java-camel-server/pojo.mustache
+  h_8d0f094ade234d 182,188,200,206
+modules/openapi-generator/src/main/resources/java-micronaut/common/model/pojo.mustache
+  h_8d0f094ade234d 113,125,138,150
+modules/openapi-generator/src/main/resources/java-msf4j-server/pojo.mustache
+  h_8d0f094ade234d 45,57
+modules/openapi-generator/src/main/resources/java-pkmst/pojo.mustache
+  h_8d0f094ade234d 55,65
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/JavaClientCodegenTest.java
+  h_8d0f094ade234d 515,531-534,544-557
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/spring/SpringCodegenTest.java
+  h_8d0f094ade234d 86,95-98
+samples/client/echo_api/java/apache-httpclient/src/main/java/org/openapitools/client/model/DefaultValue.java
+  h_8d0f094ade234d 132,165,198,231
+samples/client/echo_api/java/apache-httpclient/src/main/java/org/openapitools/client/model/Query.java
+  h_8d0f094ade234d 122
+samples/client/echo_api/java/feign-gson/src/main/java/org/openapitools/client/model/DefaultValue.java
+  h_8d0f094ade234d 135,165,195,225
+samples/client/echo_api/java/feign-gson/src/main/java/org/openapitools/client/model/Query.java
+  h_8d0f094ade234d 125
+samples/client/echo_api/java/native/src/main/java/org/openapitools/client/model/DefaultValue.java
+  h_8d0f094ade234d 130,162,194,226
+samples/client/echo_api/java/native/src/main/java/org/openapitools/client/model/Query.java
+  h_8d0f094ade234d 122
+samples/client/echo_api/java/okhttp-gson/src/main/java/org/openapitools/client/model/DefaultValue.java
+  h_8d0f094ade234d 162,189,216,243
+samples/client/echo_api/java/okhttp-gson/src/main/java/org/openapitools/client/model/Query.java
+  h_8d0f094ade234d 149
+samples/client/echo_api/java/restclient/src/main/java/org/openapitools/client/model/DefaultValue.java
+  h_8d0f094ade234d 130,163,196,229
+samples/client/echo_api/java/restclient/src/main/java/org/openapitools/client/model/Query.java
+  h_8d0f094ade234d 120
+samples/client/echo_api/java/resteasy/src/main/java/org/openapitools/client/model/DefaultValue.java
+  h_8d0f094ade234d 129,162,195,228
+samples/client/echo_api/java/resteasy/src/main/java/org/openapitools/client/model/Query.java
+  h_8d0f094ade234d 119
+samples/client/echo_api/java/resttemplate/src/main/java/org/openapitools/client/model/DefaultValue.java
+  h_8d0f094ade234d 130,163,196,229
+samples/client/echo_api/java/resttemplate/src/main/java/org/openapitools/client/model/Query.java
+  h_8d0f094ade234d 120
+samples/client/petstore/java/okhttp-gson/src/main/java/org/openapitools/client/model/NestedArrayWithDefaultValues.java
+  h_8d0f094ade234d 59-64,76
+samples/client/petstore/spring-http-interface-bean-validation/src/main/java/org/openapitools/model/ContainerDefaultValueDto.java
+  h_8d0f094ade234d 136
+samples/client/petstore/spring-http-interface-bean-validation/src/main/java/org/openapitools/model/TypeHolderDefaultDto.java
+  h_8d0f094ade234d 137
+samples/client/petstore/spring-http-interface-noResponseEntity/src/main/java/org/openapitools/model/ContainerDefaultValueDto.java
+  h_8d0f094ade234d 135
+samples/client/petstore/spring-http-interface-noResponseEntity/src/main/java/org/openapitools/model/TypeHolderDefaultDto.java
+  h_8d0f094ade234d 136
+samples/client/petstore/spring-http-interface-reactive-bean-validation/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 142
+samples/client/petstore/spring-http-interface-reactive-bean-validation/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 146
+samples/client/petstore/spring-http-interface-reactive-noResponseEntity/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 141
+samples/client/petstore/spring-http-interface-reactive-noResponseEntity/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 145
+samples/client/petstore/spring-http-interface-reactive/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 141
+samples/client/petstore/spring-http-interface-reactive/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 145
+samples/client/petstore/spring-http-interface-springboot-4/src/main/java/org/openapitools/model/ContainerDefaultValueDto.java
+  h_8d0f094ade234d 135
+samples/client/petstore/spring-http-interface-springboot-4/src/main/java/org/openapitools/model/TypeHolderDefaultDto.java
+  h_8d0f094ade234d 137
+samples/client/petstore/spring-http-interface-useHttpServiceProxyFactoryInterfacesConfigurator/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 143
+samples/client/petstore/spring-http-interface-useHttpServiceProxyFactoryInterfacesConfigurator/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 147
+samples/client/petstore/spring-http-interface/src/main/java/org/openapitools/model/ContainerDefaultValueDto.java
+  h_8d0f094ade234d 135
+samples/client/petstore/spring-http-interface/src/main/java/org/openapitools/model/TypeHolderDefaultDto.java
+  h_8d0f094ade234d 136
+samples/openapi3/client/petstore/spring-cloud-oas3-fakeapi/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 138
+samples/openapi3/client/petstore/spring-cloud-oas3-fakeapi/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 140
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/openapi3/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/openapi3/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/AdditionalPropertiesClass.java
+  h_8d0f094ade234d 178
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/AllOfWithSingleRef.java
+  h_8d0f094ade234d 145
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Animal.java
+  h_8d0f094ade234d 163
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ArrayOfArrayOfNumberOnly.java
+  h_8d0f094ade234d 136
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ArrayOfNumberOnly.java
+  h_8d0f094ade234d 136
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ArrayTest.java
+  h_8d0f094ade234d 224
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Capitalization.java
+  h_8d0f094ade234d 257
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Cat.java
+  h_8d0f094ade234d 125
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 151
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ChildWithNullable.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ClassModel.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Client.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/DeprecatedObject.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Dog.java
+  h_8d0f094ade234d 125
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/EnumArrays.java
+  h_8d0f094ade234d 257
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 513
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/FakeBigDecimalMap200Response.java
+  h_8d0f094ade234d 164
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 297
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/FileSchemaTestClass.java
+  h_8d0f094ade234d 164
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/FooGetDefaultResponse.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/FormatTest.java
+  h_8d0f094ade234d 568
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/HasOnlyReadOnly.java
+  h_8d0f094ade234d 145
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/HealthCheckResult.java
+  h_8d0f094ade234d 119
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/MapTest.java
+  h_8d0f094ade234d 313
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 193
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Model200Response.java
+  h_8d0f094ade234d 147
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 173
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ModelFile.java
+  h_8d0f094ade234d 120
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ModelList.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ModelReturn.java
+  h_8d0f094ade234d 119
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Name.java
+  h_8d0f094ade234d 209
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/NullableClass.java
+  h_8d0f094ade234d 468
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/NumberOnly.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ObjectWithDeprecatedFields.java
+  h_8d0f094ade234d 265
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 305
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/OuterComposite.java
+  h_8d0f094ade234d 173
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/OuterObjectWithEnumProperty.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ParentWithNullable.java
+  h_8d0f094ade234d 203
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 354
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/ReadOnlyFirst.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/SpecialModelName.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/TestInlineFreeformAdditionalPropertiesRequest.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 313
+samples/server/petstore/jaxrs-spec-interface-response/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 108
+samples/server/petstore/jaxrs-spec-interface-response/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 131
+samples/server/petstore/jaxrs-spec-interface-response/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 245
+samples/server/petstore/jaxrs-spec-interface-response/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 301
+samples/server/petstore/jaxrs-spec-interface-response/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 108
+samples/server/petstore/jaxrs-spec-interface-response/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 241
+samples/server/petstore/jaxrs-spec-interface/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 108
+samples/server/petstore/jaxrs-spec-interface/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 131
+samples/server/petstore/jaxrs-spec-interface/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 245
+samples/server/petstore/jaxrs-spec-interface/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 301
+samples/server/petstore/jaxrs-spec-interface/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 108
+samples/server/petstore/jaxrs-spec-interface/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 241
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/AdditionalPropertiesAnyType.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/AdditionalPropertiesArray.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/AdditionalPropertiesBoolean.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/AdditionalPropertiesClass.java
+  h_8d0f094ade234d 528
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/AdditionalPropertiesInteger.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/AdditionalPropertiesNumber.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/AdditionalPropertiesObject.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/AdditionalPropertiesString.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Animal.java
+  h_8d0f094ade234d 164
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/ArrayOfArrayOfNumberOnly.java
+  h_8d0f094ade234d 136
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/ArrayOfNumberOnly.java
+  h_8d0f094ade234d 136
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/ArrayTest.java
+  h_8d0f094ade234d 224
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/BigCat.java
+  h_8d0f094ade234d 172
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Capitalization.java
+  h_8d0f094ade234d 257
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Cat.java
+  h_8d0f094ade234d 125
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 151
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/ClassModel.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Client.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Dog.java
+  h_8d0f094ade234d 125
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/EnumArrays.java
+  h_8d0f094ade234d 257
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 425
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/FileSchemaTestClass.java
+  h_8d0f094ade234d 164
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/FormatTest.java
+  h_8d0f094ade234d 510
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/HasOnlyReadOnly.java
+  h_8d0f094ade234d 145
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/MapTest.java
+  h_8d0f094ade234d 313
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 193
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Model200Response.java
+  h_8d0f094ade234d 147
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 173
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/ModelFile.java
+  h_8d0f094ade234d 120
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/ModelList.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/ModelReturn.java
+  h_8d0f094ade234d 119
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Name.java
+  h_8d0f094ade234d 209
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/NumberOnly.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 305
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/OuterComposite.java
+  h_8d0f094ade234d 173
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 354
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/ReadOnlyFirst.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/SpecialModelName.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 263
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/TypeHolderExample.java
+  h_8d0f094ade234d 293
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 313
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/XmlItem.java
+  h_8d0f094ade234d 1048
+samples/server/petstore/jaxrs-spec-microprofile-openapi-annotations/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-microprofile-openapi-annotations/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 173
+samples/server/petstore/jaxrs-spec-microprofile-openapi-annotations/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 305
+samples/server/petstore/jaxrs-spec-microprofile-openapi-annotations/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 362
+samples/server/petstore/jaxrs-spec-microprofile-openapi-annotations/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-microprofile-openapi-annotations/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 313
+samples/server/petstore/jaxrs-spec-oneof-interface/src/gen/java/org/openapitools/model/CatRequest.java
+  h_8d0f094ade234d 143
+samples/server/petstore/jaxrs-spec-oneof-interface/src/gen/java/org/openapitools/model/DogRequest.java
+  h_8d0f094ade234d 143
+samples/server/petstore/jaxrs-spec-oneof-interface/src/gen/java/org/openapitools/model/PetBase.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-quarkus-jspecify/src/gen/java/org/openapitools/model/FileContent.java
+  h_8d0f094ade234d 175
+samples/server/petstore/jaxrs-spec-quarkus-jspecify/src/gen/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 394
+samples/server/petstore/jaxrs-spec-quarkus-jspecify/src/gen/java/org/openapitools/model/RequiredAndNullable.java
+  h_8d0f094ade234d 198
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/AdditionalPropertiesClass.java
+  h_8d0f094ade234d 176
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/AllOfWithSingleRef.java
+  h_8d0f094ade234d 143
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Animal.java
+  h_8d0f094ade234d 161
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ArrayOfArrayOfNumberOnly.java
+  h_8d0f094ade234d 134
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ArrayOfNumberOnly.java
+  h_8d0f094ade234d 134
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ArrayTest.java
+  h_8d0f094ade234d 222
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Capitalization.java
+  h_8d0f094ade234d 255
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Cat.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 149
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ChildWithNullable.java
+  h_8d0f094ade234d 115
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ClassModel.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Client.java
+  h_8d0f094ade234d 114
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/DeprecatedObject.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Dog.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/EnumArrays.java
+  h_8d0f094ade234d 255
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 511
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/FakeBigDecimalMap200Response.java
+  h_8d0f094ade234d 162
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/FileSchemaTestClass.java
+  h_8d0f094ade234d 162
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 114
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/FooGetDefaultResponse.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/FormatTest.java
+  h_8d0f094ade234d 566
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/HasOnlyReadOnly.java
+  h_8d0f094ade234d 143
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/HealthCheckResult.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/MapTest.java
+  h_8d0f094ade234d 311
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 191
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Model200Response.java
+  h_8d0f094ade234d 145
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 171
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ModelFile.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ModelList.java
+  h_8d0f094ade234d 115
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ModelReturn.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Name.java
+  h_8d0f094ade234d 207
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/NullableClass.java
+  h_8d0f094ade234d 466
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/NumberOnly.java
+  h_8d0f094ade234d 115
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ObjectWithDeprecatedFields.java
+  h_8d0f094ade234d 263
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 303
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/OuterComposite.java
+  h_8d0f094ade234d 171
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/OuterObjectWithEnumProperty.java
+  h_8d0f094ade234d 122
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ParentWithNullable.java
+  h_8d0f094ade234d 201
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 352
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/ReadOnlyFirst.java
+  h_8d0f094ade234d 142
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/SpecialModelName.java
+  h_8d0f094ade234d 115
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 142
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/TestInlineFreeformAdditionalPropertiesRequest.java
+  h_8d0f094ade234d 122
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 311
+samples/server/petstore/jaxrs-spec-required-and-readonly-property/src/gen/java/org/openapitools/model/ReadonlyAndRequiredProperties.java
+  h_8d0f094ade234d 267
+samples/server/petstore/jaxrs-spec-sealed/src/gen/java/org/openapitools/model/CatRequest.java
+  h_8d0f094ade234d 143
+samples/server/petstore/jaxrs-spec-sealed/src/gen/java/org/openapitools/model/DogRequest.java
+  h_8d0f094ade234d 143
+samples/server/petstore/jaxrs-spec-sealed/src/gen/java/org/openapitools/model/PetBase.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/AdditionalPropertiesClass.java
+  h_8d0f094ade234d 178
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/AllOfWithSingleRef.java
+  h_8d0f094ade234d 145
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Animal.java
+  h_8d0f094ade234d 163
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ArrayOfArrayOfNumberOnly.java
+  h_8d0f094ade234d 136
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ArrayOfNumberOnly.java
+  h_8d0f094ade234d 136
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ArrayTest.java
+  h_8d0f094ade234d 224
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Capitalization.java
+  h_8d0f094ade234d 257
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Cat.java
+  h_8d0f094ade234d 125
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 151
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ChildWithNullable.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ClassModel.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Client.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/DeprecatedObject.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Dog.java
+  h_8d0f094ade234d 125
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/EnumArrays.java
+  h_8d0f094ade234d 257
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 513
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/FakeBigDecimalMap200Response.java
+  h_8d0f094ade234d 164
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 297
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/FileSchemaTestClass.java
+  h_8d0f094ade234d 164
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/FooGetDefaultResponse.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/FormatTest.java
+  h_8d0f094ade234d 568
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/HasOnlyReadOnly.java
+  h_8d0f094ade234d 145
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/HealthCheckResult.java
+  h_8d0f094ade234d 119
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/MapTest.java
+  h_8d0f094ade234d 313
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 193
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Model200Response.java
+  h_8d0f094ade234d 147
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 173
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ModelFile.java
+  h_8d0f094ade234d 120
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ModelList.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ModelReturn.java
+  h_8d0f094ade234d 119
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Name.java
+  h_8d0f094ade234d 209
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/NullableClass.java
+  h_8d0f094ade234d 468
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/NumberOnly.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ObjectWithDeprecatedFields.java
+  h_8d0f094ade234d 265
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 305
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/OuterComposite.java
+  h_8d0f094ade234d 173
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/OuterObjectWithEnumProperty.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ParentWithNullable.java
+  h_8d0f094ade234d 203
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 354
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/ReadOnlyFirst.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/SpecialModelName.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/TestInlineFreeformAdditionalPropertiesRequest.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 313
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/AdditionalPropertiesClass.java
+  h_8d0f094ade234d 177
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/AllOfWithSingleRef.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Animal.java
+  h_8d0f094ade234d 162
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ArrayOfArrayOfNumberOnly.java
+  h_8d0f094ade234d 135
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ArrayOfNumberOnly.java
+  h_8d0f094ade234d 135
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ArrayTest.java
+  h_8d0f094ade234d 223
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Capitalization.java
+  h_8d0f094ade234d 256
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Cat.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 150
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ChildWithNullable.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ClassModel.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Client.java
+  h_8d0f094ade234d 115
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/DeprecatedObject.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Dog.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/EnumArrays.java
+  h_8d0f094ade234d 256
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 512
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/FakeBigDecimalMap200Response.java
+  h_8d0f094ade234d 163
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 296
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/FileSchemaTestClass.java
+  h_8d0f094ade234d 163
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 115
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/FooGetDefaultResponse.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/FormatTest.java
+  h_8d0f094ade234d 567
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/HasOnlyReadOnly.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/HealthCheckResult.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/MapTest.java
+  h_8d0f094ade234d 312
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 192
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Model200Response.java
+  h_8d0f094ade234d 146
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 172
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ModelFile.java
+  h_8d0f094ade234d 119
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ModelList.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ModelReturn.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Name.java
+  h_8d0f094ade234d 208
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/NullableClass.java
+  h_8d0f094ade234d 467
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/NumberOnly.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ObjectWithDeprecatedFields.java
+  h_8d0f094ade234d 264
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 304
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/OuterComposite.java
+  h_8d0f094ade234d 172
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/OuterObjectWithEnumProperty.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ParentWithNullable.java
+  h_8d0f094ade234d 202
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 353
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/ReadOnlyFirst.java
+  h_8d0f094ade234d 143
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/SpecialModelName.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 143
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/TestInlineFreeformAdditionalPropertiesRequest.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 312
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/AdditionalPropertiesClass.java
+  h_8d0f094ade234d 177
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/AllOfWithSingleRef.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Animal.java
+  h_8d0f094ade234d 162
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ArrayOfArrayOfNumberOnly.java
+  h_8d0f094ade234d 135
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ArrayOfNumberOnly.java
+  h_8d0f094ade234d 135
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ArrayTest.java
+  h_8d0f094ade234d 223
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Capitalization.java
+  h_8d0f094ade234d 256
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Cat.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 150
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ChildWithNullable.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ClassModel.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Client.java
+  h_8d0f094ade234d 115
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/DeprecatedObject.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Dog.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/EnumArrays.java
+  h_8d0f094ade234d 256
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 512
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/FakeBigDecimalMap200Response.java
+  h_8d0f094ade234d 163
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 296
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/FileSchemaTestClass.java
+  h_8d0f094ade234d 163
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 115
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/FooGetDefaultResponse.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/FormatTest.java
+  h_8d0f094ade234d 567
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/HasOnlyReadOnly.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/HealthCheckResult.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/MapTest.java
+  h_8d0f094ade234d 312
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 192
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Model200Response.java
+  h_8d0f094ade234d 146
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 172
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ModelFile.java
+  h_8d0f094ade234d 119
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ModelList.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ModelReturn.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Name.java
+  h_8d0f094ade234d 208
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/NullableClass.java
+  h_8d0f094ade234d 467
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/NumberOnly.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ObjectWithDeprecatedFields.java
+  h_8d0f094ade234d 264
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 304
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/OuterComposite.java
+  h_8d0f094ade234d 172
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/OuterObjectWithEnumProperty.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ParentWithNullable.java
+  h_8d0f094ade234d 202
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 353
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/ReadOnlyFirst.java
+  h_8d0f094ade234d 143
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/SpecialModelName.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 143
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/TestInlineFreeformAdditionalPropertiesRequest.java
+  h_8d0f094ade234d 123
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 312
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/AdditionalPropertiesClass.java
+  h_8d0f094ade234d 193
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/AllOfWithSingleRef.java
+  h_8d0f094ade234d 160
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Animal.java
+  h_8d0f094ade234d 178
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ArrayOfArrayOfNumberOnly.java
+  h_8d0f094ade234d 150
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ArrayOfNumberOnly.java
+  h_8d0f094ade234d 150
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ArrayTest.java
+  h_8d0f094ade234d 240
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Capitalization.java
+  h_8d0f094ade234d 276
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Cat.java
+  h_8d0f094ade234d 139
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 166
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ChildWithNullable.java
+  h_8d0f094ade234d 131
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ClassModel.java
+  h_8d0f094ade234d 132
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Client.java
+  h_8d0f094ade234d 130
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/DeprecatedObject.java
+  h_8d0f094ade234d 132
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Dog.java
+  h_8d0f094ade234d 139
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/EnumArrays.java
+  h_8d0f094ade234d 276
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 542
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/FakeBigDecimalMap200Response.java
+  h_8d0f094ade234d 179
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 318
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/FileSchemaTestClass.java
+  h_8d0f094ade234d 179
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 130
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/FooGetDefaultResponse.java
+  h_8d0f094ade234d 132
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/FormatTest.java
+  h_8d0f094ade234d 597
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/HasOnlyReadOnly.java
+  h_8d0f094ade234d 160
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/HealthCheckResult.java
+  h_8d0f094ade234d 133
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/MapTest.java
+  h_8d0f094ade234d 332
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 209
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Model200Response.java
+  h_8d0f094ade234d 162
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 189
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ModelFile.java
+  h_8d0f094ade234d 134
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ModelList.java
+  h_8d0f094ade234d 131
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ModelReturn.java
+  h_8d0f094ade234d 133
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Name.java
+  h_8d0f094ade234d 226
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/NullableClass.java
+  h_8d0f094ade234d 493
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/NumberOnly.java
+  h_8d0f094ade234d 131
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ObjectWithDeprecatedFields.java
+  h_8d0f094ade234d 282
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 326
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/OuterComposite.java
+  h_8d0f094ade234d 189
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/OuterObjectWithEnumProperty.java
+  h_8d0f094ade234d 138
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ParentWithNullable.java
+  h_8d0f094ade234d 220
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 375
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/ReadOnlyFirst.java
+  h_8d0f094ade234d 159
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/SpecialModelName.java
+  h_8d0f094ade234d 131
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 159
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/TestInlineFreeformAdditionalPropertiesRequest.java
+  h_8d0f094ade234d 138
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 334
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/AdditionalPropertiesClass.java
+  h_8d0f094ade234d 178
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/AllOfWithSingleRef.java
+  h_8d0f094ade234d 145
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Animal.java
+  h_8d0f094ade234d 163
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ArrayOfArrayOfNumberOnly.java
+  h_8d0f094ade234d 136
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ArrayOfNumberOnly.java
+  h_8d0f094ade234d 136
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ArrayTest.java
+  h_8d0f094ade234d 224
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Capitalization.java
+  h_8d0f094ade234d 257
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Cat.java
+  h_8d0f094ade234d 125
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Category.java
+  h_8d0f094ade234d 151
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ChildWithNullable.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ClassModel.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Client.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/DeprecatedObject.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Dog.java
+  h_8d0f094ade234d 125
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/EnumArrays.java
+  h_8d0f094ade234d 257
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 513
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/FakeBigDecimalMap200Response.java
+  h_8d0f094ade234d 164
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 297
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/FileSchemaTestClass.java
+  h_8d0f094ade234d 164
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 116
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/FooGetDefaultResponse.java
+  h_8d0f094ade234d 118
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/FormatTest.java
+  h_8d0f094ade234d 568
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/HasOnlyReadOnly.java
+  h_8d0f094ade234d 145
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/HealthCheckResult.java
+  h_8d0f094ade234d 119
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/MapTest.java
+  h_8d0f094ade234d 313
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 193
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Model200Response.java
+  h_8d0f094ade234d 147
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ModelApiResponse.java
+  h_8d0f094ade234d 173
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ModelFile.java
+  h_8d0f094ade234d 120
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ModelList.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ModelReturn.java
+  h_8d0f094ade234d 119
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Name.java
+  h_8d0f094ade234d 209
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/NullableClass.java
+  h_8d0f094ade234d 468
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/NumberOnly.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ObjectWithDeprecatedFields.java
+  h_8d0f094ade234d 265
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 305
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/OuterComposite.java
+  h_8d0f094ade234d 173
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/OuterObjectWithEnumProperty.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ParentWithNullable.java
+  h_8d0f094ade234d 203
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 354
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/ReadOnlyFirst.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/SpecialModelName.java
+  h_8d0f094ade234d 117
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/Tag.java
+  h_8d0f094ade234d 144
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/TestInlineFreeformAdditionalPropertiesRequest.java
+  h_8d0f094ade234d 124
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/User.java
+  h_8d0f094ade234d 313
+samples/server/petstore/spring-boot-defaultInterface-unhandledExcp/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/server/petstore/spring-boot-defaultInterface-unhandledExcp/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/springboot-beanvalidation-no-nullable/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 144
+samples/server/petstore/springboot-beanvalidation-no-nullable/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 150
+samples/server/petstore/springboot-beanvalidation/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/server/petstore/springboot-beanvalidation/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/springboot-builtin-validation/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/server/petstore/springboot-builtin-validation/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 156
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/springboot-include-http-request-context/src/main/java/org/openapitools/model/ContainerDefaultValueDto.java
+  h_8d0f094ade234d 148
+samples/server/petstore/springboot-include-http-request-context/src/main/java/org/openapitools/model/TypeHolderDefaultDto.java
+  h_8d0f094ade234d 153
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/springboot-virtualan/src/main/java/org/openapitools/virtualan/model/ContainerDefaultValue.java
+  h_8d0f094ade234d 146
+samples/server/petstore/springboot-virtualan/src/main/java/org/openapitools/virtualan/model/TypeHolderDefault.java
+  h_8d0f094ade234d 151
+samples/server/petstore/springboot/src/main/java/org/openapitools/model/ContainerDefaultValueDto.java
+  h_8d0f094ade234d 148
+samples/server/petstore/springboot/src/main/java/org/openapitools/model/TypeHolderDefaultDto.java
+  h_8d0f094ade234d 153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1f114116dee32e4dcce336b96696b55c6dbe8f9f",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
