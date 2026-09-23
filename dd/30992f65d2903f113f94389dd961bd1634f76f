@@ -1,0 +1,66 @@
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/AbstractJavaCodegen.java
+  h_8d0f094ade234d 1444-1447,1574,1586,1590,1601-1612,1615-1618,1621-1623,1626-1627
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/JavaDefaultValueRenderer.java
+  h_8d0f094ade234d 1-381
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/JavaPlayFrameworkCodegen.java
+  h_8d0f094ade234d 30,116-128
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/JavaClientCodegenTest.java
+  h_8d0f094ade234d 577-590
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/play/JavaPlayFrameworkCodegenTest.java
+  h_8d0f094ade234d 152-177
+modules/openapi-generator/src/test/resources/bugs/issue_24993.yaml
+  h_8d0f094ade234d 49-54
+samples/server/petstore/java-play-framework-api-package-override/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-async/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-controller-only/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-fake-endpoints-with-security/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/AdditionalPropertiesClass.java
+  h_8d0f094ade234d 21,26,30,34,39,44,49,54
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/ArrayOfArrayOfNumberOnly.java
+  h_8d0f094ade234d 22
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/ArrayOfNumberOnly.java
+  h_8d0f094ade234d 22
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/ArrayTest.java
+  h_8d0f094ade234d 21,26,31
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/EnumArrays.java
+  h_8d0f094ade234d 86
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/FileSchemaTestClass.java
+  h_8d0f094ade234d 27
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/MapTest.java
+  h_8d0f094ade234d 20,55,59,63
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 33
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/Pet.java
+  h_8d0f094ade234d 45
+samples/server/petstore/java-play-framework-fake-endpoints/app/apimodels/XmlItem.java
+  h_8d0f094ade234d 38,59,63,84,88,109,113,134,138
+samples/server/petstore/java-play-framework-no-bean-validation/app/apimodels/Pet.java
+  h_8d0f094ade234d 31
+samples/server/petstore/java-play-framework-no-excp-handling/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-no-interface/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-no-nullable/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-no-swagger-ui/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework-no-wrap-calls/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+samples/server/petstore/java-play-framework/app/apimodels/Pet.java
+  h_8d0f094ade234d 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dd30992f65d2903f113f94389dd961bd1634f76f",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
