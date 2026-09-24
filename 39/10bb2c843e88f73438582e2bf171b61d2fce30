@@ -1,0 +1,14 @@
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/JavaDefaultValueRenderer.java
+  h_8d0f094ade234d 21-363
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3910bb2c843e88f73438582e2bf171b61d2fce30",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
