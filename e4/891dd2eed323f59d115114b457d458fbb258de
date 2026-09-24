@@ -1,0 +1,324 @@
+modules/openapi-generator/src/main/resources/Java/modelEnum.mustache
+  h_8d0f094ade234d 65
+modules/openapi-generator/src/main/resources/Java/modelInnerEnum.mustache
+  h_8d0f094ade234d 54
+samples/client/echo_api/java/apache-httpclient/src/main/java/org/openapitools/client/model/StringEnumRef.java
+  h_8d0f094ade234d 57
+samples/client/echo_api/java/feign-gson/src/main/java/org/openapitools/client/model/StringEnumRef.java
+  h_8d0f094ade234d 55
+samples/client/echo_api/java/restclient/src/main/java/org/openapitools/client/model/StringEnumRef.java
+  h_8d0f094ade234d 55
+samples/client/echo_api/java/resteasy/src/main/java/org/openapitools/client/model/StringEnumRef.java
+  h_8d0f094ade234d 54
+samples/client/echo_api/java/resttemplate/src/main/java/org/openapitools/client/model/StringEnumRef.java
+  h_8d0f094ade234d 55
+samples/client/others/java/restclient-enum-in-multipart/src/main/java/org/openapitools/client/model/DataChannel.java
+  h_8d0f094ade234d 57
+samples/client/others/java/restclient-enum-in-multipart/src/main/java/org/openapitools/client/model/DataDirection.java
+  h_8d0f094ade234d 53
+samples/client/others/java/restclient-sealedInterface/src/main/java/org/openapitools/client/model/FruitType.java
+  h_8d0f094ade234d 54
+samples/client/others/java/webclient-sealedInterface/src/main/java/org/openapitools/client/model/FruitType.java
+  h_8d0f094ade234d 52
+samples/client/others/java/webclient-sealedInterface_3_1/src/main/java/org/openapitools/client/model/FruitType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/apache-httpclient-jackson3/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/apache-httpclient-jackson3/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 139,141,178,180
+samples/client/petstore/java/apache-httpclient-jackson3/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/apache-httpclient-jackson3/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/apache-httpclient-jackson3/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/apache-httpclient/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/apache-httpclient/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 139,141,178,180
+samples/client/petstore/java/apache-httpclient/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/apache-httpclient/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/apache-httpclient/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/feign-hc5/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/feign-hc5/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/feign-hc5/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/feign-hc5/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/feign-hc5/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/feign-no-nullable/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 56
+samples/client/petstore/java/feign-no-nullable/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 131,133,170,172
+samples/client/petstore/java/feign-no-nullable/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 56
+samples/client/petstore/java/feign/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/feign/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/feign/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/feign/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/feign/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/google-api-client/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/google-api-client/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 126,128,165,167
+samples/client/petstore/java/google-api-client/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/jersey2-java8-localdatetime/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 56
+samples/client/petstore/java/jersey2-java8-localdatetime/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 129,131,168,170
+samples/client/petstore/java/jersey2-java8-localdatetime/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 56
+samples/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 56
+samples/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 129,131,168,170
+samples/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 56
+samples/client/petstore/java/jersey3-jackson3/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 60
+samples/client/petstore/java/jersey3-jackson3/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,183,185,222,224
+samples/client/petstore/java/jersey3-jackson3/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 60
+samples/client/petstore/java/jersey3-jackson3/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 60
+samples/client/petstore/java/jersey3/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 60
+samples/client/petstore/java/jersey3/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,183,185,222,224
+samples/client/petstore/java/jersey3/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 60
+samples/client/petstore/java/jersey3/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 60
+samples/client/petstore/java/native-async/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 142,144,181,183,220,222
+samples/client/petstore/java/native-jackson3/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 140,142,179,181,218,220
+samples/client/petstore/java/native/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,183,185,222,224
+samples/client/petstore/java/rest-assured-jackson/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/rest-assured-jackson/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 129,131,168,170
+samples/client/petstore/java/rest-assured-jackson/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/rest-assured/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 58
+samples/client/petstore/java/rest-assured/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 147,149,199,201
+samples/client/petstore/java/rest-assured/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 58
+samples/client/petstore/java/restclient-swagger2/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-swagger2/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 138,140,177,179
+samples/client/petstore/java/restclient-swagger2/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-swagger2/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-swagger2/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 53
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 137,139,176,178
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 53
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 137,139,176,178
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 53
+samples/client/petstore/java/restclient/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 137,139,176,178
+samples/client/petstore/java/restclient/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 53
+samples/client/petstore/java/resteasy/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/resteasy/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/resteasy/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/resteasy/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/resteasy/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 62
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 159,162,203,206
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 62
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 62
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 59
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 137,139,176,178
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 53
+samples/client/petstore/java/retrofit2-play26/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 56
+samples/client/petstore/java/retrofit2-play26/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 128,130,167,169
+samples/client/petstore/java/retrofit2-play26/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 56
+samples/client/petstore/java/retrofit2/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/retrofit2/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,196,198
+samples/client/petstore/java/retrofit2/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/retrofit2rx2/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/retrofit2rx2/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,196,198
+samples/client/petstore/java/retrofit2rx2/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/retrofit2rx3/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/retrofit2rx3/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,196,198
+samples/client/petstore/java/retrofit2rx3/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/vertx-no-nullable/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx-no-nullable/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 126,128,165,167
+samples/client/petstore/java/vertx-no-nullable/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/webclient-jakarta/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-jakarta/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/webclient-jakarta/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-jakarta/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-jakarta/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/webclient-swagger2/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-swagger2/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 137,139,176,178
+samples/client/petstore/java/webclient-swagger2/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-swagger2/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-swagger2/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/petstore/java/webclient/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/webclient/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient/src/main/java/org/openapitools/client/model/SingleRefType.java
+  h_8d0f094ade234d 52
+samples/client/wildcard-accept-header/java/build.gradle
+  h_8d0f094ade234d 27-30
+samples/openapi3/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/EnumClass.java
+  h_8d0f094ade234d 58
+samples/openapi3/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 142,144,181,183,220,222
+samples/openapi3/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/OuterEnum.java
+  h_8d0f094ade234d 58
+samples/openapi3/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/OuterEnumDefaultValue.java
+  h_8d0f094ade234d 58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e4891dd2eed323f59d115114b457d458fbb258de",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
