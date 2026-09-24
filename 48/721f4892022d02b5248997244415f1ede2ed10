@@ -1,0 +1,21 @@
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/api/FakeApi.java
+  s_09f9267679c2b1::t_0027f800879b05 139,153,193,205,236,248,279,291,322,334,365,377,412,424,457,469,502,514,548,561,603,615,664,690,778,801,855,872,924,936,969,981,1015,1028,1071,1083,1122,1140,1205,1217
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/api/FakeApi.java
+  s_09f9267679c2b1::t_76154daa358260 139,153,193,205,236,248,279,291,322,334,365,377,412,424,457,469,502,514,548,561,603,615,664,690,778,801,855,872,924,936,969,981,1015,1028,1071,1083,1122,1140,1205,1217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "48721f4892022d02b5248997244415f1ede2ed10",
+  "prompts": {},
+  "sessions": {
+    "s_09f9267679c2b1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f2d9a571affe4vcNZi0VhyXbQL",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
