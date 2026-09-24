@@ -1,0 +1,64 @@
+docs/generators/elixir.md
+  h_8d0f094ade234d 27
+docs/generators/groovy.md
+  h_8d0f094ade234d 58
+docs/generators/java-camel.md
+  h_8d0f094ade234d 88
+docs/generators/java-dubbo.md
+  h_8d0f094ade234d 65
+docs/generators/java-helidon-client.md
+  h_8d0f094ade234d 59
+docs/generators/java-helidon-server.md
+  h_8d0f094ade234d 59
+docs/generators/java-inflector.md
+  h_8d0f094ade234d 60
+docs/generators/java-micronaut-client.md
+  h_8d0f094ade234d 72
+docs/generators/java-micronaut-server.md
+  h_8d0f094ade234d 70
+docs/generators/java-microprofile.md
+  h_8d0f094ade234d 59,78
+docs/generators/java-msf4j.md
+  h_8d0f094ade234d 62
+docs/generators/java-pkmst.md
+  h_8d0f094ade234d 62
+docs/generators/java-play-framework.md
+  h_8d0f094ade234d 64
+docs/generators/java-undertow-server.md
+  h_8d0f094ade234d 60
+docs/generators/java-vertx-web.md
+  h_8d0f094ade234d 61
+docs/generators/java-vertx.md
+  h_8d0f094ade234d 60
+docs/generators/java-wiremock.md
+  h_8d0f094ade234d 60
+docs/generators/java.md
+  h_8d0f094ade234d 59,78
+docs/generators/jaxrs-cxf-cdi.md
+  h_8d0f094ade234d 66
+docs/generators/jaxrs-cxf-client.md
+  h_8d0f094ade234d 62
+docs/generators/jaxrs-cxf-extended.md
+  h_8d0f094ade234d 70
+docs/generators/jaxrs-cxf.md
+  h_8d0f094ade234d 68
+docs/generators/jaxrs-jersey.md
+  h_8d0f094ade234d 62
+docs/generators/jaxrs-resteasy-eap.md
+  h_8d0f094ade234d 62
+docs/generators/jaxrs-resteasy.md
+  h_8d0f094ade234d 62
+docs/generators/jaxrs-spec.md
+  h_8d0f094ade234d 67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d4319f3e58c7353aad54e87c5147f5366e44317f",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
