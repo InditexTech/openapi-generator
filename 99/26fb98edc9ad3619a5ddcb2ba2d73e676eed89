@@ -1,0 +1,14 @@
+docs/generators/spring.md
+  h_8d0f094ade234d 81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9926fb98edc9ad3619a5ddcb2ba2d73e676eed89",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
