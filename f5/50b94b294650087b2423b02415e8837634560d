@@ -1,0 +1,22 @@
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 778,801
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 130,133
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 778,801
+samples/client/wildcard-accept-header/java/build.gradle
+  h_8d0f094ade234d 27-30
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 365-367
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f550b94b294650087b2423b02415e8837634560d",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
