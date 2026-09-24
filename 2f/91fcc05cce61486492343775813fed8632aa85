@@ -1,0 +1,50 @@
+samples/client/others/java/jersey2-oneOf-Mixed/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 40-46,1230-1232,1239-1268
+samples/client/others/java/jersey2-oneOf-duplicates/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 40-46,1230-1232,1239-1268
+samples/client/petstore/java/jersey2-java8-localdatetime/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 41-47,1387-1389,1396-1425
+samples/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 41-47,1387-1389,1396-1425
+samples/client/petstore/java/jersey3-jackson3/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 41-47,1499-1501,1508-1537
+samples/client/petstore/java/jersey3-oneOf/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 40-46,1260-1262,1269-1298
+samples/client/petstore/java/jersey3/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 41-47,1499-1501,1508-1537
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/build.gradle
+  h_8d0f094ade234d 22-31
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/build.gradle
+  h_8d0f094ade234d 22-31
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/FooApi.java
+  h_8d0f094ade234d 51,66
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/UploadApi.java
+  h_8d0f094ade234d 46,58,89,101
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/build.gradle
+  h_8d0f094ade234d 21-31
+samples/client/wildcard-accept-header/java/build.gradle
+  h_8d0f094ade234d 27-30
+samples/openapi3/client/extensions/x-auth-id-alias/java/jersey2-java8/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 40-46,1279-1281,1288-1317
+samples/openapi3/client/petstore/java/jersey2-java8-special-characters/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 40-46,1230-1232,1239-1268
+samples/openapi3/client/petstore/java/jersey2-java8-swagger1/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 41-47,1371-1373,1380-1409
+samples/openapi3/client/petstore/java/jersey2-java8-swagger2/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 41-47,1371-1373,1380-1409
+samples/openapi3/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 41-47,1469-1471,1478-1507
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/src/main/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 210,244,278
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2f91fcc05cce61486492343775813fed8632aa85",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
