@@ -1,0 +1,14 @@
+modules/openapi-generator/src/main/resources/JavaJaxRS/spec/pojo.mustache
+  h_8d0f094ade234d 388
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8d9f2d2aa6ceef3cea99cdf78fd3a2df17118ac8",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
