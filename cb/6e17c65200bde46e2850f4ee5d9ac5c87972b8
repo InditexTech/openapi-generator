@@ -1,0 +1,100 @@
+samples/client/petstore/java/apache-httpclient-jackson3/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/apache-httpclient-jackson3/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/apache-httpclient/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/apache-httpclient/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 57
+samples/client/petstore/java/feign-hc5/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/feign-hc5/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/feign/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/feign/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/jersey3-jackson3/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 60
+samples/client/petstore/java/jersey3-jackson3/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 60
+samples/client/petstore/java/jersey3/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 60
+samples/client/petstore/java/jersey3/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 60
+samples/client/petstore/java/restclient-swagger2/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-swagger2/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/restclient/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/resteasy/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/resteasy/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 62
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 62
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 55
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-jakarta/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-jakarta/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-swagger2/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-swagger2/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 54
+samples/client/petstore/java/webclient/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 54
+samples/openapi3/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/OuterEnumInteger.java
+  h_8d0f094ade234d 58
+samples/openapi3/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/OuterEnumIntegerDefaultValue.java
+  h_8d0f094ade234d 58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cb6e17c65200bde46e2850f4ee5d9ac5c87972b8",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
