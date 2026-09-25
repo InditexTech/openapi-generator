@@ -1,0 +1,14 @@
+docs/generators/kotlin.md
+  h_8d0f094ade234d 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1717b5c03994f6338a043271b4682dc0ed810bc5",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
