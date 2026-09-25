@@ -1,0 +1,44 @@
+docs/generators/kotlin.md
+  h_8d0f094ade234d 21
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/AbstractJavaCodegen.java
+  h_8d0f094ade234d 866-886
+modules/openapi-generator/src/main/resources/Java/libraries/restclient/ApiClient.mustache
+  h_8d0f094ade234d 34-36,242-244
+modules/openapi-generator/src/main/resources/Java/libraries/restclient/pom.mustache
+  h_8d0f094ade234d 284-290
+modules/openapi-generator/src/main/resources/Java/libraries/resttemplate/ApiClient.mustache
+  h_8d0f094ade234d 33-38,898-905,907
+modules/openapi-generator/src/main/resources/Java/libraries/resttemplate/pom.mustache
+  h_8d0f094ade234d 320-326
+modules/openapi-generator/src/main/resources/Java/libraries/webclient/ApiClient.mustache
+  h_8d0f094ade234d 17-19,219-221
+modules/openapi-generator/src/main/resources/Java/libraries/webclient/pom.mustache
+  h_8d0f094ade234d 148-154
+modules/openapi-generator/src/main/resources/JavaSpring/pojo.mustache
+  h_8d0f094ade234d 242
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/.openapi-generator/FILES
+  h_8d0f094ade234d 45-51
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/FooTest.java
+  h_8d0f094ade234d 53-60,69-76,93-100,117-148
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/.openapi-generator/FILES
+  h_8d0f094ade234d 46-52
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/FooTest.java
+  h_8d0f094ade234d 53-60,69-76,93-100,117-148
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/.openapi-generator/FILES
+  h_8d0f094ade234d 47-53
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/FooTest.java
+  h_8d0f094ade234d 53-60,69-76,93-100,117-148
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/src/main/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 135,183,284,357,429
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "65983d95842bb5c2cf20ba93b6061ac6e9914141",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
