@@ -1,0 +1,28 @@
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/AbstractJavaCodegen.java
+  h_8d0f094ade234d 2369-2384
+modules/openapi-generator/src/main/resources/Java/libraries/restclient/ApiClient.mustache
+  h_8d0f094ade234d 281-283
+modules/openapi-generator/src/main/resources/Java/libraries/restclient/build.gradle.mustache
+  h_8d0f094ade234d 148-150
+modules/openapi-generator/src/main/resources/Java/libraries/resttemplate/ApiClient.mustache
+  h_8d0f094ade234d 29-41,905-910,912-923,925-926,937-941
+modules/openapi-generator/src/main/resources/Java/libraries/resttemplate/build.gradle.mustache
+  h_8d0f094ade234d 177-179
+modules/openapi-generator/src/main/resources/Java/libraries/webclient/ApiClient.mustache
+  h_8d0f094ade234d 167-177,179-183
+modules/openapi-generator/src/main/resources/Java/libraries/webclient/build.gradle.mustache
+  h_8d0f094ade234d 199-201
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/JavaClientCodegenTest.java
+  h_8d0f094ade234d 5212-5239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9b407456623fee1e7bf471cf74036088289970cb",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
