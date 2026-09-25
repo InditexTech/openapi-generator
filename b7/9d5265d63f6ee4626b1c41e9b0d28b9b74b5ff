@@ -1,0 +1,62 @@
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/.openapi-generator/FILES
+  h_8d0f094ade234d 45-51
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/FileApiTest.java
+  h_8d0f094ade234d 1-48
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/FooApiTest.java
+  h_8d0f094ade234d 1-53
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/RequiredAndNullableApiTest.java
+  h_8d0f094ade234d 1-48
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/UploadApiTest.java
+  h_8d0f094ade234d 1-62
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/FileContentTest.java
+  h_8d0f094ade234d 1-63
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/FooTest.java
+  h_8d0f094ade234d 1-149
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/RequiredAndNullableTest.java
+  h_8d0f094ade234d 1-83
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/.openapi-generator/FILES
+  h_8d0f094ade234d 46-52
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/FileApiTest.java
+  h_8d0f094ade234d 1-54
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/FooApiTest.java
+  h_8d0f094ade234d 1-59
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/RequiredAndNullableApiTest.java
+  h_8d0f094ade234d 1-54
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/UploadApiTest.java
+  h_8d0f094ade234d 1-72
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/FileContentTest.java
+  h_8d0f094ade234d 1-63
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/FooTest.java
+  h_8d0f094ade234d 1-149
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/RequiredAndNullableTest.java
+  h_8d0f094ade234d 1-83
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 34-36,860-867
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/.openapi-generator/FILES
+  h_8d0f094ade234d 47-53
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/FileApiTest.java
+  h_8d0f094ade234d 1-50
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/FooApiTest.java
+  h_8d0f094ade234d 1-55
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/RequiredAndNullableApiTest.java
+  h_8d0f094ade234d 1-50
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/api/UploadApiTest.java
+  h_8d0f094ade234d 1-65
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/FileContentTest.java
+  h_8d0f094ade234d 1-63
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/FooTest.java
+  h_8d0f094ade234d 1-149
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/test/java/org/openapitools/client/model/RequiredAndNullableTest.java
+  h_8d0f094ade234d 1-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b79d5265d63f6ee4626b1c41e9b0d28b9b74b5ff",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
