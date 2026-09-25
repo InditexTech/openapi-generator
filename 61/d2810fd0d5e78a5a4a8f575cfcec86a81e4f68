@@ -1,0 +1,22 @@
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/AbstractJavaCodegen.java
+  h_8d0f094ade234d 187-198,393-395
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/JavaCamelServerCodegen.java
+  h_8d0f094ade234d 78-84
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/JavaClientCodegen.java
+  h_8d0f094ade234d 210-214
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/JavaMicroprofileServerCodegen.java
+  h_8d0f094ade234d 40-46
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/SpringCodegen.java
+  h_8d0f094ade234d 462-466
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "61d2810fd0d5e78a5a4a8f575cfcec86a81e4f68",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
