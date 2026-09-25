@@ -1,0 +1,28 @@
+docs/generators/java.md
+  h_8d0f094ade234d 78
+docs/generators/spring.md
+  h_8d0f094ade234d 81
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/AbstractJavaCodegen.java
+  h_8d0f094ade234d 394
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/JavaClientCodegen.java
+  h_8d0f094ade234d 434-440
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/SpringCodegen.java
+  h_8d0f094ade234d 688-691
+modules/openapi-generator/src/main/resources/Java/libraries/resttemplate/ApiClient.mustache
+  h_8d0f094ade234d 905
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/JavaClientCodegenTest.java
+  h_8d0f094ade234d 71,5176-5177,5216-5230
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/spring/SpringCodegenTest.java
+  h_8d0f094ade234d 5865-5866
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "24c34f158f91bb6f75f72af7301cdfbc20a6e563",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
