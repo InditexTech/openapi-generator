@@ -1,0 +1,19 @@
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/ApiClient.java
+  s_ea36883dc5cd9c::t_4dda9d137068fd 857
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "04b08b53cc6a77913a7e135ffde0cc3bb5572c72",
+  "prompts": {},
+  "sessions": {
+    "s_ea36883dc5cd9c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f28246e75ffekSWXpndPL9zB5e",
+        "model": "inditex/KAIA/glm-5.3-flash"
+      },
+      "human_author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
