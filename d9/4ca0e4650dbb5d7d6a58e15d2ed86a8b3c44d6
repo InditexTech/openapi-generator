@@ -1,0 +1,74 @@
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/AbstractJavaCodegen.java
+  h_8d0f094ade234d 2951-2955,2958,2965-3053
+modules/openapi-generator/src/main/resources/JavaSpring/beanValidation.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/bodyParams.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/formParams.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/nullableDataTypeBeanValidation.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/optionalDataType.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/queryParams.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/AbstractJavaCodegenTest.java
+  h_8d0f094ade234d 1254-1281
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/JavaClientCodegenTest.java
+  h_8d0f094ade234d 2650-2691
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/assertions/ParameterAssert.java
+  h_8d0f094ade234d 47-59
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/spring/SpringCodegenTest.java
+  h_8d0f094ade234d 1141-1344,5038-5039,5152,9290-9291
+modules/openapi-generator/src/test/resources/3_0/spring/issue_25097_valid_container.yaml
+  h_8d0f094ade234d 1-292
+samples/openapi3/client/petstore/spring-cloud-3-with-optional/src/main/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 153
+samples/openapi3/client/petstore/spring-cloud-3-with-optional/src/main/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 35,130,132
+samples/openapi3/server/petstore/springboot-4-jspecify-openapiNullable/src/main/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 133,179,348
+samples/openapi3/server/petstore/springboot-4-jspecify-openapiNullable/src/main/java/org/openapitools/model/RequiredAndNullable.java
+  h_8d0f094ade234d 93
+samples/openapi3/server/petstore/springboot-4-jspecify-useOptional/src/main/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 109,133,155,179,324,348
+samples/openapi3/server/petstore/springboot-4-jspecify-useOptional/src/main/java/org/openapitools/model/RequiredAndNullable.java
+  h_8d0f094ade234d 93
+samples/server/petstore/springboot-file-delegate-optional/src/main/java/org/openapitools/api/DummyApi.java
+  h_8d0f094ade234d 63
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 113,145,186,218
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 293
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/FileSchemaTestClass.java
+  h_8d0f094ade234d 31,45,48
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/FormatTest.java
+  h_8d0f094ade234d 279,321,342,384
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/MixedPropertiesAndAdditionalPropertiesClass.java
+  h_8d0f094ade234d 51,72
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/NumberOnly.java
+  h_8d0f094ade234d 39
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 157
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/OuterComposite.java
+  h_8d0f094ade234d 45
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 39,135,138
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/XmlItem.java
+  h_8d0f094ade234d 147,260,402,544,686
+samples/server/petstore/springboot-x-implements-skip/src/main/java/org/openapitools/model/EnumTestDto.java
+  h_8d0f094ade234d 307
+samples/server/petstore/springboot-x-implements-skip/src/main/java/org/openapitools/model/NullableClassDto.java
+  h_8d0f094ade234d 100,160,180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d94ca0e4650dbb5d7d6a58e15d2ed86a8b3c44d6",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
