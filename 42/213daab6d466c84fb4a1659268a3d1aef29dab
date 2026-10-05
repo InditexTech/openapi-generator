@@ -19,9 +19,9 @@ modules/openapi-generator/src/test/java/org/openapitools/codegen/java/JavaClient
 modules/openapi-generator/src/test/java/org/openapitools/codegen/java/assertions/ParameterAssert.java
   h_8d0f094ade234d 47-59
 modules/openapi-generator/src/test/java/org/openapitools/codegen/java/spring/SpringCodegenTest.java
-  h_8d0f094ade234d 1141-1337,5031-5032,5145,9283-9284
+  h_8d0f094ade234d 1141-1337,1301,1305,1309,1311-1315,5031-5032,5145,9283-9284
 modules/openapi-generator/src/test/resources/3_0/spring/issue_25097_valid_container.yaml
-  h_8d0f094ade234d 1-305
+  h_8d0f094ade234d 1-305,95-107
 ---
 {
   "schema_version": "authorship/3.0.0",
