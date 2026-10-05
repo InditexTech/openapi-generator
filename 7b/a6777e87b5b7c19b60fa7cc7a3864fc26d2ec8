@@ -1,0 +1,682 @@
+samples/client/petstore/spring-cloud-date-time/src/main/java/org/openapitools/api/DefaultApi.java
+  h_8d0f094ade234d 62-81,107-115
+samples/client/petstore/spring-cloud-deprecated/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 66-70,100-109,144-148,186-190,227-231,265-269,301-313,348-360
+samples/client/petstore/spring-cloud-deprecated/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 63-67,132-136,169-173
+samples/client/petstore/spring-cloud-deprecated/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 65-69,99-103,133-137,168-172,206-210,243-252,313-322
+samples/client/petstore/spring-cloud-feign-without-url/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 72-76,106-115,150-154,192-196,233-237,280-284,316-328,363-375
+samples/client/petstore/spring-cloud-feign-without-url/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 63-67,132-136,169-173
+samples/client/petstore/spring-cloud-feign-without-url/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 65-69,99-103,133-137,168-172,206-210,243-252,313-322
+samples/client/petstore/spring-cloud-tags/src/main/java/org/openapitools/api/PetController.java
+  h_8d0f094ade234d 66-70,98-107,142-146,185-189,227-231,263-267,297-309,342-354
+samples/client/petstore/spring-cloud-tags/src/main/java/org/openapitools/api/StoreController.java
+  h_8d0f094ade234d 63-67,132-136,166-170
+samples/client/petstore/spring-cloud-tags/src/main/java/org/openapitools/api/UserController.java
+  h_8d0f094ade234d 61-65,89-93,117-121,149-153,185-189,220-229,304-313
+samples/client/petstore/spring-cloud/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 72-76,106-115,150-154,192-196,233-237,280-284,316-328,363-375
+samples/client/petstore/spring-cloud/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 63-67,132-136,169-173
+samples/client/petstore/spring-cloud/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 65-69,99-103,133-137,168-172,206-210,243-252,313-322
+samples/client/petstore/spring-http-interface-bean-validation/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 42-46
+samples/client/petstore/spring-http-interface-bean-validation/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 55-59,78-82,101-105,124-128,147-151,168-172,191-195,214-223,242-246,279-334,361-398,421-450,469-473,493-500,519-523,544-563,601-613
+samples/client/petstore/spring-http-interface-bean-validation/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 42-46
+samples/client/petstore/spring-http-interface-bean-validation/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 46-50,70-79,98-102,123-127,147-151,173-177,198-210,231-243
+samples/client/petstore/spring-http-interface-bean-validation/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 43-47,84-88,108-112
+samples/client/petstore/spring-http-interface-bean-validation/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 43-47,66-70,89-93,112-116,136-140,160-169,207-216
+samples/client/petstore/spring-http-interface-noResponseEntity/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 40-44
+samples/client/petstore/spring-http-interface-noResponseEntity/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 53-57,77-81,101-105,125-129,149-153,171-175,195-199,219-228,248-252,286-341,369-406,430-459,479-483,504-511,531-535,557-576,616-628
+samples/client/petstore/spring-http-interface-noResponseEntity/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 40-44
+samples/client/petstore/spring-http-interface-noResponseEntity/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 44-48,69-78,98-102,124-128,149-153,176-180,202-214,236-248
+samples/client/petstore/spring-http-interface-noResponseEntity/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 41-45,84-88,109-113
+samples/client/petstore/spring-http-interface-noResponseEntity/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 41-45,65-69,89-93,113-117,138-142,163-172,212-221
+samples/client/petstore/spring-http-interface-oauth/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 42-46
+samples/client/petstore/spring-http-interface-reactive-bean-validation/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 46-49
+samples/client/petstore/spring-http-interface-reactive-bean-validation/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 59-62,81-84,103-106,125-128,147-150,167-171,190-193,212-220,239-242,275-330,357-394,417-446,465-468,488-495,514-517,538-557,595-607
+samples/client/petstore/spring-http-interface-reactive-bean-validation/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 46-49
+samples/client/petstore/spring-http-interface-reactive-bean-validation/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 50-53,73-82,101-105,126-130,150-154,176-179,200-212,233-245
+samples/client/petstore/spring-http-interface-reactive-bean-validation/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 47-51,88-92,112-115
+samples/client/petstore/spring-http-interface-reactive-bean-validation/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 47-50,69-72,91-94,113-117,137-141,161-170,208-216
+samples/client/petstore/spring-http-interface-reactive-noResponseEntity/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 44-47
+samples/client/petstore/spring-http-interface-reactive-noResponseEntity/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 55-58,78-81,101-104,124-127,147-150,170-173,193-201,221-224,258-313,341-378,402-431,451-454,475-482,502-505,527-546
+samples/client/petstore/spring-http-interface-reactive-noResponseEntity/src/main/java/org/openapitools/api/FakeClassnameTags123Api.java
+  h_8d0f094ade234d 44-47
+samples/client/petstore/spring-http-interface-reactive-noResponseEntity/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 49-52,73-82,102-106,128-132,153-157,175-179,202-205,227-239,261-273,295-307
+samples/client/petstore/spring-http-interface-reactive-noResponseEntity/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 45-49,88-92,113-116
+samples/client/petstore/spring-http-interface-reactive-noResponseEntity/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 45-48,68-71,91-94,114-118,139-143,164-173,213-221
+samples/client/petstore/spring-http-interface-reactive/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 43-46
+samples/client/petstore/spring-http-interface-reactive/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 54-57,76-79,98-101,120-123,142-145,164-167,186-194,213-216,249-304,331-368,391-420,439-442,462-469,488-491,512-531
+samples/client/petstore/spring-http-interface-reactive/src/main/java/org/openapitools/api/FakeClassnameTags123Api.java
+  h_8d0f094ade234d 43-46
+samples/client/petstore/spring-http-interface-reactive/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 48-51,71-80,99-103,124-128,148-152,169-173,195-198,219-231,252-264,285-297
+samples/client/petstore/spring-http-interface-reactive/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 44-48,85-89,109-112
+samples/client/petstore/spring-http-interface-reactive/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 44-47,66-69,88-91,110-114,134-138,158-167,205-213
+samples/client/petstore/spring-http-interface-springboot-4/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 42-46
+samples/client/petstore/spring-http-interface-springboot-4/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 55-59,78-82,101-105,124-128,147-151,168-172,191-195,214-223,242-246,279-334,361-398,421-450,469-473,493-500,519-523,544-563,601-613
+samples/client/petstore/spring-http-interface-springboot-4/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 42-46
+samples/client/petstore/spring-http-interface-springboot-4/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 46-50,70-79,98-102,123-127,147-151,173-177,198-210,231-243
+samples/client/petstore/spring-http-interface-springboot-4/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 43-47,84-88,108-112
+samples/client/petstore/spring-http-interface-springboot-4/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 43-47,66-70,89-93,112-116,136-140,160-169,207-216
+samples/client/petstore/spring-http-interface-useHttpServiceProxyFactoryInterfacesConfigurator/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 42-46
+samples/client/petstore/spring-http-interface-useHttpServiceProxyFactoryInterfacesConfigurator/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 53-57,76-80,99-103,122-126,145-149,168-172,191-200,219-223,256-311,338-375,398-427,446-450,470-477,496-500,521-540
+samples/client/petstore/spring-http-interface-useHttpServiceProxyFactoryInterfacesConfigurator/src/main/java/org/openapitools/api/FakeClassnameTags123Api.java
+  h_8d0f094ade234d 42-46
+samples/client/petstore/spring-http-interface-useHttpServiceProxyFactoryInterfacesConfigurator/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 47-51,71-80,99-103,124-128,148-152,169-173,195-199,220-232,253-265,286-298
+samples/client/petstore/spring-http-interface-useHttpServiceProxyFactoryInterfacesConfigurator/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 43-47,84-88,108-112
+samples/client/petstore/spring-http-interface-useHttpServiceProxyFactoryInterfacesConfigurator/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 43-47,66-70,89-93,112-116,136-140,160-169,207-216
+samples/client/petstore/spring-http-interface/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 39-43
+samples/client/petstore/spring-http-interface/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 50-54,73-77,96-100,119-123,142-146,165-169,188-197,216-220,253-308,335-372,395-424,443-447,467-474,493-497,518-537
+samples/client/petstore/spring-http-interface/src/main/java/org/openapitools/api/FakeClassnameTags123Api.java
+  h_8d0f094ade234d 39-43
+samples/client/petstore/spring-http-interface/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 44-48,68-77,96-100,121-125,145-149,166-170,192-196,217-229,250-262,283-295
+samples/client/petstore/spring-http-interface/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 40-44,81-85,105-109
+samples/client/petstore/spring-http-interface/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 40-44,63-67,86-90,109-113,133-137,157-166,204-213
+samples/openapi3/client/petstore/spring-cloud-3-with-optional/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 43-47,65-74,93-97,118-122,142-146,170-174,194-206,227-239
+samples/openapi3/client/petstore/spring-cloud-3-with-optional/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 40-44,81-85,105-109
+samples/openapi3/client/petstore/spring-cloud-3-with-optional/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 40-44,62-66,84-88,106-110,130-134,154-163,199-208
+samples/openapi3/client/petstore/spring-cloud-3/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 72-76,106-115,150-154,192-196,233-237,280-284,316-328,363-375
+samples/openapi3/client/petstore/spring-cloud-3/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 63-67,132-136,169-173
+samples/openapi3/client/petstore/spring-cloud-3/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 65-69,99-103,133-137,168-172,206-210,243-252,313-322
+samples/openapi3/client/petstore/spring-cloud-4-with-optional/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 43-47,65-74,93-97,118-122,142-146,170-174,194-206,227-239
+samples/openapi3/client/petstore/spring-cloud-4-with-optional/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 40-44,81-85,105-109
+samples/openapi3/client/petstore/spring-cloud-4-with-optional/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 40-44,62-66,84-88,106-110,130-134,154-163,199-208
+samples/openapi3/client/petstore/spring-cloud-async/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 73-77,107-116,151-155,193-197,234-238,281-285,317-329,364-376
+samples/openapi3/client/petstore/spring-cloud-async/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 64-68,133-137,170-174
+samples/openapi3/client/petstore/spring-cloud-async/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 66-70,100-104,134-138,169-173,207-211,244-253,314-323
+samples/openapi3/client/petstore/spring-cloud-date-time/src/main/java/org/openapitools/api/DefaultApi.java
+  h_8d0f094ade234d 62-81,107-115
+samples/openapi3/client/petstore/spring-cloud-http-basic/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 70-74
+samples/openapi3/client/petstore/spring-cloud-oas3-fakeapi/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 64-68
+samples/openapi3/client/petstore/spring-cloud-oas3-fakeapi/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 72-76,105-109,138-142,171-175,204-208,234-238,263-272,302-306,351-406,442-479,510-539,566-570,598-605,632-636,664-683
+samples/openapi3/client/petstore/spring-cloud-oas3-fakeapi/src/main/java/org/openapitools/api/FakeClassnameTags123Api.java
+  h_8d0f094ade234d 67-71
+samples/openapi3/client/petstore/spring-cloud-oas3-fakeapi/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 70-74,106-115,150-154,192-196,233-237,263-267,303-307,339-351,386-398,433-445
+samples/openapi3/client/petstore/spring-cloud-oas3-fakeapi/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 63-67,132-136,169-173
+samples/openapi3/client/petstore/spring-cloud-oas3-fakeapi/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 62-66,93-97,124-128,156-160,194-198,231-240,295-304
+samples/openapi3/client/petstore/spring-cloud-spring-pageable/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 69-73,101-110,147-151,191-200,238-242,309-313,343-355,388-400
+samples/openapi3/client/petstore/spring-cloud-spring-pageable/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 63-67,132-136,166-170
+samples/openapi3/client/petstore/spring-cloud-spring-pageable/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 61-65,89-93,117-121,149-153,185-189,220-229,304-313
+samples/openapi3/client/petstore/spring-cloud/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 72-76,106-115,150-154,192-196,233-237,280-284,316-328,363-375
+samples/openapi3/client/petstore/spring-cloud/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 63-67,132-136,169-173
+samples/openapi3/client/petstore/spring-cloud/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 65-69,99-103,133-137,168-172,206-210,243-252,313-322
+samples/openapi3/client/petstore/spring-stubs-skip-default-interface/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 72-76,106-115,150-154,192-196,233-237,280-284,316-328,363-375
+samples/openapi3/client/petstore/spring-stubs-skip-default-interface/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 63-67,132-136,169-173
+samples/openapi3/client/petstore/spring-stubs-skip-default-interface/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 65-69,99-103,133-137,168-172,206-210,243-252,313-322
+samples/openapi3/client/petstore/spring-stubs/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 79-83,130-139,177-181,236-240,294-298,358-362,411-423,461-473
+samples/openapi3/client/petstore/spring-stubs/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/openapi3/client/petstore/spring-stubs/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 72-76,109-113,146-150,184-188,225-229,279-288,355-364
+samples/openapi3/server/petstore/spring-boot-oneof-interface/src/main/java/org/openapitools/api/BarApi.java
+  h_8d0f094ade234d 70-74
+samples/openapi3/server/petstore/spring-boot-oneof-interface/src/main/java/org/openapitools/api/FooApi.java
+  h_8d0f094ade234d 71-75
+samples/openapi3/server/petstore/spring-boot-oneof-jackson-default-impl/src/main/java/org/openapitools/api/AnimalsApi.java
+  h_8d0f094ade234d 68-72
+samples/openapi3/server/petstore/spring-boot-oneof-jackson-default-impl/src/main/java/org/openapitools/api/BeveragesApi.java
+  h_8d0f094ade234d 68-72
+samples/openapi3/server/petstore/spring-boot-oneof-jackson-default-impl/src/main/java/org/openapitools/api/FruitsApi.java
+  h_8d0f094ade234d 68-72
+samples/openapi3/server/petstore/spring-boot-oneof-sealed/src/main/java/org/openapitools/api/BarApi.java
+  h_8d0f094ade234d 70-74
+samples/openapi3/server/petstore/spring-boot-oneof-sealed/src/main/java/org/openapitools/api/FooApi.java
+  h_8d0f094ade234d 71-75
+samples/openapi3/server/petstore/spring-boot-oneof/src/main/java/org/openapitools/api/BarApi.java
+  h_8d0f094ade234d 70-74
+samples/openapi3/server/petstore/spring-boot-oneof/src/main/java/org/openapitools/api/FooApi.java
+  h_8d0f094ade234d 71-75
+samples/openapi3/server/petstore/spring-boot-springdoc/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 79-83,130-139,177-181,236-240,294-298,358-362,411-423,461-473
+samples/openapi3/server/petstore/spring-boot-springdoc/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/openapi3/server/petstore/spring-boot-springdoc/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 72-76,109-113,146-150,184-188,225-229,279-288,355-364
+samples/openapi3/server/petstore/springboot-3-include-http-request-context/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-80,113-122,160-164,205-209,249-253,299-303,338-350,388-400
+samples/openapi3/server/petstore/springboot-3-include-http-request-context/src/main/java/org/openapitools/api/PetApiDelegate.java
+  h_8d0f094ade234d 40-41,70-73,88-89,120-121,151-152,185-186,216-221,237-240
+samples/openapi3/server/petstore/springboot-3-include-http-request-context/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 67-71,141-145,181-185
+samples/openapi3/server/petstore/springboot-3-include-http-request-context/src/main/java/org/openapitools/api/StoreApiDelegate.java
+  h_8d0f094ade234d 39-40,68-69,98-99
+samples/openapi3/server/petstore/springboot-3-include-http-request-context/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-73,106-110,143-147,181-185,222-226,262-271,337-346
+samples/openapi3/server/petstore/springboot-3-include-http-request-context/src/main/java/org/openapitools/api/UserApiDelegate.java
+  h_8d0f094ade234d 38-39,53-54,68-69,84-85,101-102,132-135,163-166
+samples/openapi3/server/petstore/springboot-3/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 79-83,130-139,177-181,236-240,294-298,358-362,411-423,461-473
+samples/openapi3/server/petstore/springboot-3/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/openapi3/server/petstore/springboot-3/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 72-76,109-113,146-150,184-188,225-229,279-288,355-364
+samples/openapi3/server/petstore/springboot-4-jspecify-openapiNullable/src/main/java/org/openapitools/api/FileApi.java
+  h_8d0f094ade234d 67-71
+samples/openapi3/server/petstore/springboot-4-jspecify-openapiNullable/src/main/java/org/openapitools/api/FooApi.java
+  h_8d0f094ade234d 73-92
+samples/openapi3/server/petstore/springboot-4-jspecify-openapiNullable/src/main/java/org/openapitools/api/RequiredAndNullableApi.java
+  h_8d0f094ade234d 68-72
+samples/openapi3/server/petstore/springboot-4-jspecify-openapiNullable/src/main/java/org/openapitools/api/UploadApi.java
+  h_8d0f094ade234d 65-68
+samples/openapi3/server/petstore/springboot-4-jspecify-openapiNullable/src/main/java/org/openapitools/api/UploadFilesApi.java
+  h_8d0f094ade234d 65-68
+samples/openapi3/server/petstore/springboot-4-jspecify-useOptional/src/main/java/org/openapitools/api/FileApi.java
+  h_8d0f094ade234d 67-71
+samples/openapi3/server/petstore/springboot-4-jspecify-useOptional/src/main/java/org/openapitools/api/FooApi.java
+  h_8d0f094ade234d 73-92
+samples/openapi3/server/petstore/springboot-4-jspecify-useOptional/src/main/java/org/openapitools/api/RequiredAndNullableApi.java
+  h_8d0f094ade234d 68-72
+samples/openapi3/server/petstore/springboot-4-jspecify-useOptional/src/main/java/org/openapitools/api/UploadApi.java
+  h_8d0f094ade234d 65-68
+samples/openapi3/server/petstore/springboot-4-jspecify-useOptional/src/main/java/org/openapitools/api/UploadFilesApi.java
+  h_8d0f094ade234d 65-68
+samples/openapi3/server/petstore/springboot-4-jspecify/src/main/java/org/openapitools/api/FileApi.java
+  h_8d0f094ade234d 67-71
+samples/openapi3/server/petstore/springboot-4-jspecify/src/main/java/org/openapitools/api/FooApi.java
+  h_8d0f094ade234d 73-92
+samples/openapi3/server/petstore/springboot-4-jspecify/src/main/java/org/openapitools/api/RequiredAndNullableApi.java
+  h_8d0f094ade234d 68-72
+samples/openapi3/server/petstore/springboot-4-jspecify/src/main/java/org/openapitools/api/UploadApi.java
+  h_8d0f094ade234d 65-68
+samples/openapi3/server/petstore/springboot-4-jspecify/src/main/java/org/openapitools/api/UploadFilesApi.java
+  h_8d0f094ade234d 65-68
+samples/openapi3/server/petstore/springboot-4/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 79-83,130-139,177-181,236-240,294-298,358-362,411-423,461-473
+samples/openapi3/server/petstore/springboot-4/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/openapi3/server/petstore/springboot-4/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 72-76,109-113,146-150,184-188,225-229,279-288,355-364
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 67-71
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/AnotherFakeApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 77-81,112-116,147-151,182-186,217-221,249-253,281-285,312-321,353-357,404-459,497-534,567-596,625-629,659-666,695-699,729-748,814-826
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/FakeApiDelegate.java
+  h_8d0f094ade234d 49-50,63-64,77-78,100-101,114-115,127-128,150-151,164-167,180-181,217-234,236-243,264-279,297-308,321-322,336-339,352-353,369-376,412-413,415-416
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 70-74
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/FakeClassnameTestApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 72-76,110-119,156-160,200-204,243-247,285-289,323-335,372-384
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/PetApiDelegate.java
+  h_8d0f094ade234d 40-41,56-59,73-74,104-105,134-135,165-166,181-186,201-204
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 66-70,139-143,178-182
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/StoreApiDelegate.java
+  h_8d0f094ade234d 38-39,66-67,95-96
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 65-69,98-102,131-135,165-169,205-209,244-253,312-321
+samples/openapi3/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/UserApiDelegate.java
+  h_8d0f094ade234d 37-38,51-52,65-66,80-81,96-97,126-129,156-159
+samples/openapi3/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-75
+samples/openapi3/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 81-85,117-121,153-157,198-202,234-238,267-271,309-313,341-350,383-387,444-499,540-567,603-622,652-656,687-694,724-728,759-778,855-867
+samples/openapi3/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-78
+samples/openapi3/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-80,117-121,159-163,218-222,276-280,333-337,372-384,422-434
+samples/openapi3/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/openapi3/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-73,103-107,137-141,172-176,213-217,267-276,337-346
+samples/openapi3/server/petstore/springboot-source/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 50-54,89-98,120-124,162-166,203-207,248-252,289-301,325-337
+samples/openapi3/server/petstore/springboot-source/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 47-51,94-98,135-139
+samples/openapi3/server/petstore/springboot-source/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 47-51,72-76,97-101,122-126,149-153,190-199,241-250
+samples/openapi3/server/petstore/springboot/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 80-84,131-140,178-182,237-241,295-299,359-363,412-424,462-474
+samples/openapi3/server/petstore/springboot/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 71-75,146-150,200-204
+samples/openapi3/server/petstore/springboot/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 73-77,110-114,147-151,185-189,226-230,280-289,356-365
+samples/server/petstore/spring-boot-defaultInterface-unhandledExcp/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 64-68
+samples/server/petstore/spring-boot-defaultInterface-unhandledExcp/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 74-78,107-111,140-144,173-177,206-210,236-240,266-270,295-304,334-338,383-438,474-511,542-571,598-602,630-637,664-668,696-715,777-789
+samples/server/petstore/spring-boot-defaultInterface-unhandledExcp/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 67-71
+samples/server/petstore/spring-boot-defaultInterface-unhandledExcp/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 69-73,105-114,149-153,191-195,232-236,272-276,308-320,355-367
+samples/server/petstore/spring-boot-defaultInterface-unhandledExcp/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 63-67,132-136,169-173
+samples/server/petstore/spring-boot-defaultInterface-unhandledExcp/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 62-66,93-97,124-128,156-160,194-198,231-240,295-304
+samples/server/petstore/spring-boot-nullable-set/src/main/java/org/openapitools/api/NullableApi.java
+  h_8d0f094ade234d 69-73
+samples/server/petstore/springboot-api-response-examples/src/main/java/org/openapitools/api/DogsApi.java
+  h_8d0f094ade234d 84-88
+samples/server/petstore/springboot-api-response-examples/src/main/java/org/openapitools/api/DogsApiDelegate.java
+  h_8d0f094ade234d 38-39
+samples/server/petstore/springboot-beanvalidation-no-nullable/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-75
+samples/server/petstore/springboot-beanvalidation-no-nullable/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 81-85,117-121,153-157,198-202,234-238,267-271,309-313,341-350,383-387,444-499,538-575,609-638,668-672,703-710,740-744,775-794,871-883
+samples/server/petstore/springboot-beanvalidation-no-nullable/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-78
+samples/server/petstore/springboot-beanvalidation-no-nullable/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-80,115-124,162-166,221-225,279-283,336-340,375-387,425-437
+samples/server/petstore/springboot-beanvalidation-no-nullable/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/server/petstore/springboot-beanvalidation-no-nullable/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-73,103-107,137-141,172-176,213-217,267-276,337-346
+samples/server/petstore/springboot-beanvalidation/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-75
+samples/server/petstore/springboot-beanvalidation/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 81-85,117-121,153-157,198-202,234-238,267-271,309-313,341-350,383-387,444-499,538-575,609-638,668-672,703-710,740-744,775-794,871-883
+samples/server/petstore/springboot-beanvalidation/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-78
+samples/server/petstore/springboot-beanvalidation/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-80,115-124,162-166,221-225,279-283,336-340,375-387,425-437
+samples/server/petstore/springboot-beanvalidation/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/server/petstore/springboot-beanvalidation/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-73,103-107,137-141,172-176,213-217,267-276,337-346
+samples/server/petstore/springboot-builtin-validation/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-75
+samples/server/petstore/springboot-builtin-validation/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 81-85,117-121,153-157,198-202,234-238,267-271,309-313,341-350,383-387,444-499,538-575,609-638,668-672,703-710,740-744,775-794,871-883
+samples/server/petstore/springboot-builtin-validation/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-78
+samples/server/petstore/springboot-builtin-validation/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-80,115-124,162-166,221-225,279-283,336-340,375-387,425-437
+samples/server/petstore/springboot-builtin-validation/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/server/petstore/springboot-builtin-validation/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-73,103-107,137-141,172-176,213-217,267-276,337-346
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 67-71
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/AnotherFakeApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 77-81,112-116,147-151,182-186,217-221,249-253,281-285,312-321,353-357,404-459,497-534,567-596,625-629,659-666,695-699,729-748,814-826
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/FakeApiDelegate.java
+  h_8d0f094ade234d 49-50,63-64,77-78,100-101,114-115,127-128,150-151,164-167,180-181,217-234,236-243,264-279,297-308,321-322,336-339,352-353,369-376,412-413,415-416
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 70-74
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/FakeClassnameTestApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 72-76,110-119,156-160,200-204,243-247,285-289,323-335,372-384
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/PetApiDelegate.java
+  h_8d0f094ade234d 40-41,56-59,73-74,104-105,134-135,165-166,181-186,201-204
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 66-70,139-143,178-182
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/StoreApiDelegate.java
+  h_8d0f094ade234d 38-39,66-67,95-96
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 65-69,98-102,131-135,165-169,205-209,244-253,312-321
+samples/server/petstore/springboot-delegate-j8/src/main/java/org/openapitools/api/UserApiDelegate.java
+  h_8d0f094ade234d 37-38,51-52,65-66,80-81,96-97,126-129,156-159
+samples/server/petstore/springboot-delegate-no-response-entity/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-80,113-122,160-164,205-209,249-253,299-303,338-350,388-400
+samples/server/petstore/springboot-delegate-no-response-entity/src/main/java/org/openapitools/api/PetApiDelegate.java
+  h_8d0f094ade234d 38-39,67-70,84-85,115-116,145-146,178-179,208-213,228-231
+samples/server/petstore/springboot-delegate-no-response-entity/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 67-71,142-146,182-186
+samples/server/petstore/springboot-delegate-no-response-entity/src/main/java/org/openapitools/api/StoreApiDelegate.java
+  h_8d0f094ade234d 37-38,65-66,94-95
+samples/server/petstore/springboot-delegate-no-response-entity/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-73,106-110,143-147,181-185,222-226,262-271,338-347
+samples/server/petstore/springboot-delegate-no-response-entity/src/main/java/org/openapitools/api/UserApiDelegate.java
+  h_8d0f094ade234d 36-37,50-51,64-65,79-80,95-96,125-128,155-158
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 67-71
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/AnotherFakeApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 77-81,112-116,147-151,182-186,217-221,249-253,281-285,312-321,353-357,404-459,497-534,567-596,625-629,659-666,695-699,729-748,814-826
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/FakeApiDelegate.java
+  h_8d0f094ade234d 49-50,63-64,77-78,100-101,114-115,127-128,150-151,164-167,180-181,217-234,236-243,264-279,297-308,321-322,336-339,352-353,369-376,412-413,415-416
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 70-74
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/FakeClassnameTestApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 72-76,110-119,156-160,200-204,243-247,285-289,323-335,372-384
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/PetApiDelegate.java
+  h_8d0f094ade234d 40-41,56-59,73-74,104-105,134-135,165-166,181-186,201-204
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 66-70,139-143,178-182
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/StoreApiDelegate.java
+  h_8d0f094ade234d 38-39,66-67,95-96
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 65-69,98-102,131-135,165-169,205-209,244-253,312-321
+samples/server/petstore/springboot-delegate/src/main/java/org/openapitools/api/UserApiDelegate.java
+  h_8d0f094ade234d 37-38,51-52,65-66,80-81,96-97,126-129,156-159
+samples/server/petstore/springboot-file-delegate-optional/src/main/java/org/openapitools/api/DummyApi.java
+  h_8d0f094ade234d 63-67
+samples/server/petstore/springboot-file-delegate-optional/src/main/java/org/openapitools/api/DummyApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/server/petstore/springboot-implicitHeaders-annotationLibrary/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 50-54,88-92,114-118,156-160,197-201,242-246,283-295,319-331
+samples/server/petstore/springboot-implicitHeaders-annotationLibrary/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 47-51,94-98,135-139
+samples/server/petstore/springboot-implicitHeaders-annotationLibrary/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 47-51,72-76,97-101,122-126,149-153,190-199,241-250
+samples/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-75
+samples/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 81-85,117-121,153-157,198-202,234-238,267-271,309-313,341-350,383-387,444-499,540-567,603-622,652-656,687-694,724-728,759-778,855-867
+samples/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-78
+samples/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-80,117-121,159-163,218-222,276-280,333-337,372-384,422-434
+samples/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/server/petstore/springboot-implicitHeaders/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-73,103-107,137-141,172-176,213-217,267-276,337-346
+samples/server/petstore/springboot-include-http-request-context/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 72-76
+samples/server/petstore/springboot-include-http-request-context/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 82-86,119-123,156-160,202-206,239-243,273-277,316-320,349-358,392-396,454-509,549-586,621-650,681-685,717-724,755-759,791-810,888-900
+samples/server/petstore/springboot-include-http-request-context/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 75-79
+samples/server/petstore/springboot-include-http-request-context/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 77-81,117-126,165-169,225-229,284-288,342-346,382-394,433-445
+samples/server/petstore/springboot-include-http-request-context/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 71-75,147-151,202-206
+samples/server/petstore/springboot-include-http-request-context/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 70-74,105-109,140-144,176-180,218-222,273-282,344-353
+samples/server/petstore/springboot-lombok-data/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 79-83,130-139,177-181,236-240,294-298,358-362,411-423,461-473
+samples/server/petstore/springboot-lombok-data/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/server/petstore/springboot-lombok-data/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 72-76,109-113,146-150,184-188,225-229,279-288,355-364
+samples/server/petstore/springboot-lombok-tostring/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 79-83,130-139,177-181,236-240,294-298,358-362,411-423,461-473
+samples/server/petstore/springboot-lombok-tostring/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/server/petstore/springboot-lombok-tostring/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 72-76,109-113,146-150,184-188,225-229,279-288,355-364
+samples/server/petstore/springboot-paged-model/src/main/java/org/openapitools/api/OrderApi.java
+  h_8d0f094ade234d 42-51
+samples/server/petstore/springboot-paged-model/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 74-78
+samples/server/petstore/springboot-paged-model/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 43-52
+samples/server/petstore/springboot-petstore-with-api-response-examples/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 85-89,121-130,173-177,217-221,260-264,309-313,347-359,396-408
+samples/server/petstore/springboot-petstore-with-api-response-examples/src/main/java/org/openapitools/api/PetApiDelegate.java
+  h_8d0f094ade234d 39-40,68-71,85-86,116-117,146-147,179-180,209-214,229-232
+samples/server/petstore/springboot-petstore-with-api-response-examples/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 66-70,139-143,178-182
+samples/server/petstore/springboot-petstore-with-api-response-examples/src/main/java/org/openapitools/api/StoreApiDelegate.java
+  h_8d0f094ade234d 38-39,66-67,95-96
+samples/server/petstore/springboot-petstore-with-api-response-examples/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 68-72,104-108,140-144,177-181,217-221,256-265,330-339
+samples/server/petstore/springboot-petstore-with-api-response-examples/src/main/java/org/openapitools/api/UserApiDelegate.java
+  h_8d0f094ade234d 37-38,51-52,65-66,80-81,96-97,126-129,156-159
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-74
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 81-84,116-119,151-154,186-189,221-224,253-257,286-289,317-325,358-361,409-464,503-540,574-603,633-636,667-674,704-707,738-757,825-837
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/api/FakeApiDelegate.java
+  h_8d0f094ade234d 130-131,163-164,211-228,230-237,261-276,297-308,341-344,379-386,419-420,422-423
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-77
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-79,114-123,161-165,206-210,250-254,293-296,331-343,381-393
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/api/PetApiDelegate.java
+  h_8d0f094ade234d 60-63,80-81,100-101,119-120,157-162,180-183
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,185-188
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/api/StoreApiDelegate.java
+  h_8d0f094ade234d 40-41,74-75
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-72,102-105,135-138,169-173,210-214,250-259,320-328
+samples/server/petstore/springboot-reactive-noResponseEntity/src/main/java/org/openapitools/api/UserApiDelegate.java
+  h_8d0f094ade234d 88-89,107-108,126-129,162-163
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-74
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 81-84,116-119,151-154,186-189,221-224,253-257,286-289,317-325,358-361,409-464,503-540,574-603,633-636,667-674,704-707,738-757,824-836
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/api/FakeApiDelegate.java
+  h_8d0f094ade234d 154-155,200-201,261-278,280-287,314-329,353-364,403-406,447-454,499-500,502-503
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-77
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-79,114-123,161-165,206-210,250-254,293-296,331-343,381-393
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/api/PetApiDelegate.java
+  h_8d0f094ade234d 65-68,88-89,124-125,159-160,216-221,242-245
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,144-148,184-187
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/api/StoreApiDelegate.java
+  h_8d0f094ade234d 42-43,81-82
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-72,102-105,135-138,169-173,210-214,250-259,319-327
+samples/server/petstore/springboot-reactive/src/main/java/org/openapitools/api/UserApiDelegate.java
+  h_8d0f094ade234d 99-100,121-122,156-159,197-198
+samples/server/petstore/springboot-sort-validation/src/main/java/org/openapitools/api/NullableApi.java
+  h_8d0f094ade234d 40-44,62-66,84-88
+samples/server/petstore/springboot-sort-validation/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 51-70,87-91,348-352
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 67-71
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/AnotherFakeApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 75-79,109-113,143-147,177-181,211-215,243-247,274-283,315-319,366-421,459-496,529-558,585-589,617-624,655-679,714-726
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/FakeApiDelegate.java
+  h_8d0f094ade234d 47-48,61-62,75-76,98-99,112-113,126-127,140-143,156-157,193-210,212-219,240-255,273-284,296-297,310-313,330-339,353-354,356-357
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 70-74
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/FakeClassnameTestApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 74-78,110-119,156-160,202-211,251-255,325-329,361-373,408-420
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/PetApiDelegate.java
+  h_8d0f094ade234d 43-44,58-61,75-76,107-110,139-140,195-196,210-215,229-232
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 66-70,139-143,175-179
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/StoreApiDelegate.java
+  h_8d0f094ade234d 38-39,66-67,94-95
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 64-68,94-98,124-128,158-162,196-200,233-242,298-307
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/UserApiDelegate.java
+  h_8d0f094ade234d 37-38,50-51,63-64,78-79,93-94,122-125,151-154
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/VersioningApi.java
+  h_8d0f094ade234d 66-80,114-138,169-183
+samples/server/petstore/springboot-spring-pageable-delegatePattern-without-j8/src/main/java/org/openapitools/api/VersioningApiDelegate.java
+  h_8d0f094ade234d 37-42,67-76,99-104
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 67-71
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/AnotherFakeApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 75-79,109-113,143-147,177-181,211-215,243-247,274-283,315-319,366-421,459-496,529-558,585-589,617-624,655-679,714-726
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/FakeApiDelegate.java
+  h_8d0f094ade234d 47-48,61-62,75-76,98-99,112-113,126-127,140-143,156-157,193-210,212-219,240-255,273-284,296-297,310-313,330-339,353-354,356-357
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 70-74
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/FakeClassnameTestApiDelegate.java
+  h_8d0f094ade234d 36-37
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 74-78,110-119,156-160,202-211,251-255,325-329,361-373,408-420
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/PetApiDelegate.java
+  h_8d0f094ade234d 43-44,58-61,75-76,107-110,139-140,195-196,210-215,229-232
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 66-70,139-143,175-179
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/StoreApiDelegate.java
+  h_8d0f094ade234d 38-39,66-67,94-95
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 64-68,94-98,124-128,158-162,196-200,233-242,298-307
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/UserApiDelegate.java
+  h_8d0f094ade234d 37-38,50-51,63-64,78-79,93-94,122-125,151-154
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/VersioningApi.java
+  h_8d0f094ade234d 68-72,108-122,153-167
+samples/server/petstore/springboot-spring-pageable-delegatePattern/src/main/java/org/openapitools/api/VersioningApiDelegate.java
+  h_8d0f094ade234d 35-36,59-64,87-92
+samples/server/petstore/springboot-spring-pageable-without-j8/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-75
+samples/server/petstore/springboot-spring-pageable-without-j8/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 79-83,114-118,149-153,193-197,228-232,261-265,293-302,335-339,396-451,490-527,561-590,618-622,651-658,690-714,750-762
+samples/server/petstore/springboot-spring-pageable-without-j8/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-78
+samples/server/petstore/springboot-spring-pageable-without-j8/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 78-82,115-124,162-166,223-232,287-291,391-395,428-440,476-488
+samples/server/petstore/springboot-spring-pageable-without-j8/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,196-200
+samples/server/petstore/springboot-spring-pageable-without-j8/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 68-72,99-103,130-134,165-169,204-208,256-265,323-332
+samples/server/petstore/springboot-spring-pageable-without-j8/src/main/java/org/openapitools/api/VersioningApi.java
+  h_8d0f094ade234d 70-84,128-152,193-207
+samples/server/petstore/springboot-spring-pageable/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-75
+samples/server/petstore/springboot-spring-pageable/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 79-83,114-118,149-153,193-197,228-232,261-265,293-302,335-339,396-451,490-527,561-590,618-622,651-658,690-714,750-762
+samples/server/petstore/springboot-spring-pageable/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-78
+samples/server/petstore/springboot-spring-pageable/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 78-82,115-124,162-166,223-232,287-291,391-395,428-440,476-488
+samples/server/petstore/springboot-spring-pageable/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,196-200
+samples/server/petstore/springboot-spring-pageable/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 68-72,99-103,130-134,165-169,204-208,256-265,323-332
+samples/server/petstore/springboot-spring-pageable/src/main/java/org/openapitools/api/VersioningApi.java
+  h_8d0f094ade234d 72-76,122-136,177-191
+samples/server/petstore/springboot-spring-provide-args/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 76-85
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-75
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 81-85,117-121,153-157,198-202,234-238,267-271,309-313,341-350,383-387,444-499,538-575,609-638,668-672,703-710,740-744,775-794,871-883
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-78
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-80,115-124,162-166,221-225,279-283,336-340,375-387,425-437
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-73,103-107,137-141,172-176,213-217,267-276,337-346
+samples/server/petstore/springboot-virtualan/src/main/java/org/openapitools/virtualan/api/AnotherFakeApi.java
+  h_8d0f094ade234d 75-79
+samples/server/petstore/springboot-virtualan/src/main/java/org/openapitools/virtualan/api/FakeApi.java
+  h_8d0f094ade234d 85-89,122-126,159-163,205-209,242-246,276-280,319-323,352-361,395-399,457-512,552-589,624-653,684-688,720-727,758-762,794-813,892-904
+samples/server/petstore/springboot-virtualan/src/main/java/org/openapitools/virtualan/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 78-82
+samples/server/petstore/springboot-virtualan/src/main/java/org/openapitools/virtualan/api/PetApi.java
+  h_8d0f094ade234d 80-84,120-129,168-172,228-232,287-291,345-349,385-397,436-448
+samples/server/petstore/springboot-virtualan/src/main/java/org/openapitools/virtualan/api/StoreApi.java
+  h_8d0f094ade234d 74-78,151-155,206-210
+samples/server/petstore/springboot-virtualan/src/main/java/org/openapitools/virtualan/api/UserApi.java
+  h_8d0f094ade234d 73-77,108-112,143-147,179-183,221-225,276-285,348-357
+samples/server/petstore/springboot-x-implements-skip/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-75
+samples/server/petstore/springboot-x-implements-skip/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 165-179,211-215,247-251,292-296,328-332,364-368,407-411,440-444,473-477,505-514,547-551,608-663,703-745,782-811,841-845,875-879,910-917,947-951,985-1019,1049-1053,1091-1103
+samples/server/petstore/springboot-x-implements-skip/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-78
+samples/server/petstore/springboot-x-implements-skip/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-80,115-124,162-166,221-225,279-283,336-340,377-389,427-439
+samples/server/petstore/springboot-x-implements-skip/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/server/petstore/springboot-x-implements-skip/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-73,103-107,137-141,172-176,213-217,267-276,337-346
+samples/server/petstore/springboot/src/main/java/org/openapitools/api/AnotherFakeApi.java
+  h_8d0f094ade234d 71-75
+samples/server/petstore/springboot/src/main/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 81-85,117-121,153-157,198-202,234-238,267-271,309-313,341-350,383-387,444-499,538-575,609-638,668-672,703-710,740-744,775-794,871-883
+samples/server/petstore/springboot/src/main/java/org/openapitools/api/FakeClassnameTestApi.java
+  h_8d0f094ade234d 74-78
+samples/server/petstore/springboot/src/main/java/org/openapitools/api/PetApi.java
+  h_8d0f094ade234d 76-80,115-124,162-166,221-225,279-283,336-340,375-387,425-437
+samples/server/petstore/springboot/src/main/java/org/openapitools/api/StoreApi.java
+  h_8d0f094ade234d 70-74,145-149,199-203
+samples/server/petstore/springboot/src/main/java/org/openapitools/api/UserApi.java
+  h_8d0f094ade234d 69-73,103-107,137-141,172-176,213-217,267-276,337-346
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7ba6777e87b5b7c19b60fa7cc7a3864fc26d2ec8",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
