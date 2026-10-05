@@ -1,0 +1,41 @@
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/AbstractJavaCodegen.java
+  s_7acfb80ae6f5c2::t_9b539f86af2c45 2991-2995,2998,3005-3093
+modules/openapi-generator/src/main/resources/JavaSpring/beanValidation.mustache
+  s_7acfb80ae6f5c2::t_c3bc6d91150ad8 1
+modules/openapi-generator/src/main/resources/JavaSpring/bodyParams.mustache
+  s_7acfb80ae6f5c2::t_f1769025c8c5c9 1
+modules/openapi-generator/src/main/resources/JavaSpring/formParams.mustache
+  s_7acfb80ae6f5c2::t_6c06f46b8ca03b 1
+modules/openapi-generator/src/main/resources/JavaSpring/nullableDataTypeBeanValidation.mustache
+  s_7acfb80ae6f5c2::t_a8b7d26abb308e 1
+modules/openapi-generator/src/main/resources/JavaSpring/optionalDataType.mustache
+  s_7acfb80ae6f5c2::t_2e18e8d9ef758b 1
+modules/openapi-generator/src/main/resources/JavaSpring/queryParams.mustache
+  s_7acfb80ae6f5c2::t_acf3b55c8634e2 1
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/AbstractJavaCodegenTest.java
+  s_7acfb80ae6f5c2::t_a33bb556af49d6 1254-1281
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/JavaClientCodegenTest.java
+  s_7acfb80ae6f5c2::t_02244e95cfdf9a 2775-2816
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/assertions/ParameterAssert.java
+  s_7acfb80ae6f5c2::t_45f671a11e475e 47-59
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/spring/SpringCodegenTest.java
+  s_7acfb80ae6f5c2::t_65015f330cf8b4 1140-1336,5030-5031,5144,9282-9283
+modules/openapi-generator/src/test/resources/3_0/spring/issue_25097_valid_container.yaml
+  s_7acfb80ae6f5c2::t_fc600505013f6f 1-305
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "93072d7195961e1677f48d4df02bcdb4e4bd7d16",
+  "prompts": {},
+  "sessions": {
+    "s_7acfb80ae6f5c2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f035a4e53ffeyj2WWv9zC6mSWZ",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
