@@ -1,0 +1,36 @@
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/AbstractJavaCodegen.java
+  h_8d0f094ade234d 2991-2995,2998,3005-3093
+modules/openapi-generator/src/main/resources/JavaSpring/beanValidation.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/bodyParams.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/formParams.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/nullableDataTypeBeanValidation.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/optionalDataType.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/queryParams.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/AbstractJavaCodegenTest.java
+  h_8d0f094ade234d 1254-1281
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/JavaClientCodegenTest.java
+  h_8d0f094ade234d 2775-2816
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/assertions/ParameterAssert.java
+  h_8d0f094ade234d 47-59
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/spring/SpringCodegenTest.java
+  h_8d0f094ade234d 1140-1336,5030-5031,5144,9282-9283
+modules/openapi-generator/src/test/resources/3_0/spring/issue_25097_valid_container.yaml
+  h_8d0f094ade234d 1-305
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bfb2581c9fb49d7a5c9ea8f609d7fa9e4c9689cb",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
