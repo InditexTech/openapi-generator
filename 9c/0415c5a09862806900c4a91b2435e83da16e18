@@ -1,0 +1,63 @@
+modules/openapi-generator/src/main/resources/JavaSpring/bodyParams.mustache
+  s_7acfb80ae6f5c2::t_548aed140d0a25 1
+modules/openapi-generator/src/main/resources/JavaSpring/formParams.mustache
+  s_7acfb80ae6f5c2::t_37723a0b030dd3 1
+modules/openapi-generator/src/main/resources/JavaSpring/optionalDataType.mustache
+  s_7acfb80ae6f5c2::t_d890eee065afd5 1
+modules/openapi-generator/src/main/resources/JavaSpring/queryParams.mustache
+  s_7acfb80ae6f5c2::t_0fa11a64b735cd 1
+samples/openapi3/client/petstore/spring-cloud-3-with-optional/src/main/java/org/openapitools/model/Order.java
+  s_7acfb80ae6f5c2::t_8afd7ed3b41e28 153
+samples/openapi3/client/petstore/spring-cloud-3-with-optional/src/main/java/org/openapitools/model/Pet.java
+  s_7acfb80ae6f5c2::t_6d413f0defb549 35,130,132
+samples/openapi3/server/petstore/springboot-4-jspecify-openapiNullable/src/main/java/org/openapitools/model/Foo.java
+  s_7acfb80ae6f5c2::t_e39bea0faec6ea 133,179,348
+samples/openapi3/server/petstore/springboot-4-jspecify-openapiNullable/src/main/java/org/openapitools/model/RequiredAndNullable.java
+  s_7acfb80ae6f5c2::t_1ff5345144756c 93
+samples/openapi3/server/petstore/springboot-4-jspecify-useOptional/src/main/java/org/openapitools/model/Foo.java
+  s_7acfb80ae6f5c2::t_e293511fa5d632 109,133,155,179,324,348
+samples/openapi3/server/petstore/springboot-4-jspecify-useOptional/src/main/java/org/openapitools/model/RequiredAndNullable.java
+  s_7acfb80ae6f5c2::t_a2e8fd8a2e966b 93
+samples/server/petstore/springboot-file-delegate-optional/src/main/java/org/openapitools/api/DummyApi.java
+  s_7acfb80ae6f5c2::t_ee5f355dbade35 63
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/api/FakeApi.java
+  s_7acfb80ae6f5c2::t_3313c566947dec 113,186,218
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/EnumTest.java
+  s_7acfb80ae6f5c2::t_0dfd571a3f395e 293
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/FileSchemaTestClass.java
+  s_7acfb80ae6f5c2::t_3f69cea82c1388 31,45,48
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/FormatTest.java
+  s_7acfb80ae6f5c2::t_831a7d6d807ca0 279,321,342,384
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/MixedPropertiesAndAdditionalPropertiesClass.java
+  s_7acfb80ae6f5c2::t_43dd69043b5f5d 51,72
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/NumberOnly.java
+  s_7acfb80ae6f5c2::t_32c1362ea2ca2e 39
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/Order.java
+  s_7acfb80ae6f5c2::t_4015ccee48a52d 157
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/OuterComposite.java
+  s_7acfb80ae6f5c2::t_89bcd8cbeda01d 45
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/Pet.java
+  s_7acfb80ae6f5c2::t_5ef9622ef08bc7 39,135,138
+samples/server/petstore/springboot-useoptional/src/main/java/org/openapitools/model/XmlItem.java
+  s_7acfb80ae6f5c2::t_7023b32e160ec0 147,260,402,544,686
+samples/server/petstore/springboot-x-implements-skip/src/main/java/org/openapitools/model/EnumTestDto.java
+  s_7acfb80ae6f5c2::t_ad6407c748c2cc 307
+samples/server/petstore/springboot-x-implements-skip/src/main/java/org/openapitools/model/NullableClassDto.java
+  s_7acfb80ae6f5c2::t_16f284ab15f8df 100,160,180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9c0415c5a09862806900c4a91b2435e83da16e18",
+  "prompts": {},
+  "sessions": {
+    "s_7acfb80ae6f5c2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f035a4e53ffeyj2WWv9zC6mSWZ",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
