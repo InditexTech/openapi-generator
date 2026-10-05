@@ -1,0 +1,22 @@
+modules/openapi-generator/src/main/resources/JavaSpring/bodyParams.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/formParams.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/optionalDataType.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/main/resources/JavaSpring/queryParams.mustache
+  h_8d0f094ade234d 1
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/spring/SpringCodegenTest.java
+  h_8d0f094ade234d 1296-1298,1301,1305-1306,1309
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0673a5f595159fc1310480434612065a18ec5bc7",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
