@@ -1,0 +1,892 @@
+.github/ISSUE_TEMPLATE/bug_report.md
+  h_8d0f094ade234d 17
+.github/workflows/samples-spring-jdk17.yaml
+  h_8d0f094ade234d 25,48,79
+bin/configs/spring-boot-records.yaml
+  h_8d0f094ade234d 1-13
+docs/generators/csharp.md
+  h_8d0f094ade234d 48,64-65
+docs/generators/spring.md
+  h_8d0f094ade234d 125
+modules/openapi-generator/src/main/java/org/openapitools/codegen/VendorExtension.java
+  h_8d0f094ade234d 37-38
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/CSharpClientCodegen.java
+  h_8d0f094ade234d 250,1165,1810-1817
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/JavaCamelServerCodegen.java
+  h_8d0f094ade234d 65-69,79
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/RustAxumServerCodegen.java
+  h_8d0f094ade234d 725-726,730,732-736,738,768,775,785-786,792-826,841,848,852,854,856,858,869-915,920
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/SpringCodegen.java
+  h_8d0f094ade234d 122,176,326-331,651,721,1813-1816,1820-2044
+modules/openapi-generator/src/main/java/org/openapitools/codegen/utils/ModelUtils.java
+  h_8d0f094ade234d 1099-1112
+modules/openapi-generator/src/main/resources/JavaJaxRS/spec/libraries/kumuluzee/pom.mustache
+  h_8d0f094ade234d 28-30,58-64,85
+modules/openapi-generator/src/main/resources/JavaJaxRS/spec/libraries/openliberty/pom.mustache
+  h_8d0f094ade234d 50-56,73-75
+modules/openapi-generator/src/main/resources/JavaJaxRS/spec/libraries/thorntail/pom.mustache
+  h_8d0f094ade234d 26-28,56-62
+modules/openapi-generator/src/main/resources/JavaSpring/libraries/spring-http-interface/httpInterfacesConfiguration.mustache
+  h_8d0f094ade234d 24-26
+modules/openapi-generator/src/main/resources/JavaSpring/libraries/spring-http-interface/httpServiceProxyFactoryInterfacesConfigurator.mustache
+  h_8d0f094ade234d 16-18
+modules/openapi-generator/src/main/resources/JavaSpring/model.mustache
+  h_8d0f094ade234d 57
+modules/openapi-generator/src/main/resources/JavaSpring/record.mustache
+  h_8d0f094ade234d 1-127
+modules/openapi-generator/src/main/resources/csharp/ApiClient.mustache
+  h_8d0f094ade234d 470,497-504
+modules/openapi-generator/src/main/resources/csharp/ApiClient.v790.mustache
+  h_8d0f094ade234d 489-496
+modules/openapi-generator/src/main/resources/csharp/ApiException.mustache
+  h_8d0f094ade234d 52-62
+modules/openapi-generator/src/main/resources/csharp/libraries/generichost/DateTimeFormatHelper.mustache
+  h_8d0f094ade234d 9,11,14,16-19,21-26,29,31-34,37-38,40,42,45,47,49-56,58
+modules/openapi-generator/src/main/resources/csharp/libraries/generichost/JsonConverter.mustache
+  h_8d0f094ade234d 18,22,24,27,31,33,235-238,240,243-246,248,527-537,545-555
+modules/openapi-generator/src/main/resources/rust-axum/Cargo.mustache
+  h_8d0f094ade234d 32-44,54-56,61,63,70-72,76,81-82
+modules/openapi-generator/src/main/resources/rust-axum/README.mustache
+  h_8d0f094ade234d 37
+modules/openapi-generator/src/main/resources/rust-axum/lib.mustache
+  h_8d0f094ade234d 17,30
+modules/openapi-generator/src/main/resources/rust-axum/models.mustache
+  h_8d0f094ade234d 3,11,22-33,36,45,56,70,79,805-808,811,822,824,873-880,898-901,904,915,917,966-973,1002,1007,1130,1145,1190,1192
+modules/openapi-generator/src/main/resources/rust-axum/types.mustache
+  h_8d0f094ade234d 791-825
+modules/openapi-generator/src/main/resources/swift6/APIs.mustache
+  h_8d0f094ade234d 278-280
+modules/openapi-generator/src/main/resources/swift6/Extensions.mustache
+  h_8d0f094ade234d 148
+modules/openapi-generator/src/main/resources/swift6/libraries/alamofire/AlamofireImplementations.mustache
+  h_8d0f094ade234d 22-23,128,190,284,289-291,294-296,301-303,352,366,371-373,376-378,382
+modules/openapi-generator/src/main/resources/swift6/libraries/urlsession/URLSessionImplementations.mustache
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+modules/openapi-generator/src/test/java/org/openapitools/codegen/csharpnetcore/CSharpClientCodegenTest.java
+  h_8d0f094ade234d 20,52-124,785-824
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/jaxrs/JavaJAXRSSpecServerCodegenTest.java
+  h_8d0f094ade234d 2764-2803
+modules/openapi-generator/src/test/java/org/openapitools/codegen/java/spring/SpringCodegenTest.java
+  h_8d0f094ade234d 36,3238,3257-3258,3262,3281-3327,7271-7301,10371-10819
+modules/openapi-generator/src/test/java/org/openapitools/codegen/rust/RustAxumServerCodegenTest.java
+  h_8d0f094ade234d 105-106,138-154
+modules/openapi-generator/src/test/java/org/openapitools/codegen/utils/ModelUtilsTest.java
+  h_8d0f094ade234d 34,36,39,280-349
+modules/openapi-generator/src/test/resources/3_0/rust-axum/rust-axum-discriminator-enum-ref.yaml
+  h_8d0f094ade234d 109-176
+modules/openapi-generator/src/test/resources/3_0/spring/records-aliases.yaml
+  h_8d0f094ade234d 1-229
+modules/openapi-generator/src/test/resources/3_0/spring/records-fields.yaml
+  h_8d0f094ade234d 1-170
+modules/openapi-generator/src/test/resources/3_0/spring/records-getter-names.yaml
+  h_8d0f094ade234d 1-49
+modules/openapi-generator/src/test/resources/3_0/spring/records-parameters.yaml
+  h_8d0f094ade234d 1-197
+modules/openapi-generator/src/test/resources/3_0/spring/records.yaml
+  h_8d0f094ade234d 1-240
+modules/openapi-generator/src/test/resources/3_1/csharp/issue_25224.yaml
+  h_8d0f094ade234d 1-26
+samples/client/echo_api/csharp/restsharp/net8/EchoApi/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 61-71
+samples/client/others/csharp-complex-files/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/generichost/latest/AnnotatedEnum/.openapi-generator/FILES
+  h_8d0f094ade234d 34
+samples/client/petstore/csharp/generichost/latest/AnnotatedEnum/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/latest/ComposedEnum/.openapi-generator/FILES
+  h_8d0f094ade234d 21
+samples/client/petstore/csharp/generichost/latest/ComposedEnum/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/latest/HelloWorld/.openapi-generator/FILES
+  h_8d0f094ade234d 21
+samples/client/petstore/csharp/generichost/latest/HelloWorld/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/latest/InlineEnumAnyOf/.openapi-generator/FILES
+  h_8d0f094ade234d 24
+samples/client/petstore/csharp/generichost/latest/InlineEnumAnyOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/latest/NullTypes/.openapi-generator/FILES
+  h_8d0f094ade234d 26
+samples/client/petstore/csharp/generichost/latest/NullTypes/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/latest/OneOfList/.openapi-generator/FILES
+  h_8d0f094ade234d 22
+samples/client/petstore/csharp/generichost/latest/OneOfList/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/latest/Tags/.openapi-generator/FILES
+  h_8d0f094ade234d 25
+samples/client/petstore/csharp/generichost/latest/Tags/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 18,20,23,25-28,30-35,38,40-43,46-47,49,53,55,57-64
+samples/client/petstore/csharp/generichost/latest/UseDateTimeOffset/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/latest/UseDateTimeOffset/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/latest/UseDateTimeOffset/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 174-177
+samples/client/petstore/csharp/generichost/latest/UseDateTimeOffset/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1007-1010,1024-1027
+samples/client/petstore/csharp/generichost/latest/UseDateTimeOffset/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 258-261
+samples/client/petstore/csharp/generichost/latest/UseDateTimeOffset/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 434-437,443-446
+samples/client/petstore/csharp/generichost/latest/UseDateTimeOffset/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 405-408
+samples/client/petstore/csharp/generichost/latest/UseDateTimeOffset/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2223-2226,2232-2235,2253-2256,2263-2266,2285-2288,2325-2328,2383-2386,2391-2394
+samples/client/petstore/csharp/generichost/net10/AllOf/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net10/AllOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net10/AnyOf/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net10/AnyOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net10/AnyOfNoCompare/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net10/AnyOfNoCompare/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net10/FormModels/.openapi-generator/FILES
+  h_8d0f094ade234d 164
+samples/client/petstore/csharp/generichost/net10/FormModels/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net10/FormModels/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/net10/FormModels/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/net10/FormModels/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/net10/FormModels/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/net10/FormModels/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 322-325
+samples/client/petstore/csharp/generichost/net10/FormModels/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 1047-1050,1056-1059,1078-1081,1088-1091,1110-1113,1153-1156,1213-1216,1221-1224
+samples/client/petstore/csharp/generichost/net10/NullReferenceTypes/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net10/NullReferenceTypes/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net10/NullReferenceTypes/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 182-185
+samples/client/petstore/csharp/generichost/net10/NullReferenceTypes/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1015-1018,1032-1035
+samples/client/petstore/csharp/generichost/net10/NullReferenceTypes/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 266-269
+samples/client/petstore/csharp/generichost/net10/NullReferenceTypes/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 435-438,444-447
+samples/client/petstore/csharp/generichost/net10/NullReferenceTypes/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 413-416
+samples/client/petstore/csharp/generichost/net10/NullReferenceTypes/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2231-2234,2240-2243,2261-2264,2271-2274,2293-2296,2333-2336,2391-2394,2399-2402
+samples/client/petstore/csharp/generichost/net10/OneOf/.openapi-generator/FILES
+  h_8d0f094ade234d 24
+samples/client/petstore/csharp/generichost/net10/OneOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net10/Petstore/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net10/Petstore/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net10/Petstore/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/net10/Petstore/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/net10/Petstore/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/net10/Petstore/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/net10/Petstore/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 411-414
+samples/client/petstore/csharp/generichost/net10/Petstore/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2229-2232,2238-2241,2259-2262,2269-2272,2291-2294,2331-2334,2389-2392,2397-2400
+samples/client/petstore/csharp/generichost/net10/SourceGeneration/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net10/SourceGeneration/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net10/SourceGeneration/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 183-186
+samples/client/petstore/csharp/generichost/net10/SourceGeneration/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1016-1019,1033-1036
+samples/client/petstore/csharp/generichost/net10/SourceGeneration/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 267-270
+samples/client/petstore/csharp/generichost/net10/SourceGeneration/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 436-439,445-448
+samples/client/petstore/csharp/generichost/net10/SourceGeneration/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 414-417
+samples/client/petstore/csharp/generichost/net10/SourceGeneration/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2232-2235,2241-2244,2262-2265,2272-2275,2294-2297,2334-2337,2392-2395,2400-2403
+samples/client/petstore/csharp/generichost/net10/UseDateTimeForDate/.openapi-generator/FILES
+  h_8d0f094ade234d 21
+samples/client/petstore/csharp/generichost/net10/UseDateTimeForDate/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 2,4,17,19,22,24-27,29-34,37,39-42,45-46,48
+samples/client/petstore/csharp/generichost/net10/UseDateTimeForDate/src/Org.OpenAPITools/Model/NowGet200Response.cs
+  h_8d0f094ade234d 199-202,205-208
+samples/client/petstore/csharp/generichost/net4.7/AllOf/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net4.7/AllOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,44-46,48
+samples/client/petstore/csharp/generichost/net4.7/AnyOf/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net4.7/AnyOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,44-46,48
+samples/client/petstore/csharp/generichost/net4.7/AnyOfNoCompare/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net4.7/AnyOfNoCompare/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,44-46,48
+samples/client/petstore/csharp/generichost/net4.7/FormModels/.openapi-generator/FILES
+  h_8d0f094ade234d 164
+samples/client/petstore/csharp/generichost/net4.7/FormModels/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48
+samples/client/petstore/csharp/generichost/net4.7/FormModels/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/net4.7/FormModels/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/net4.7/FormModels/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/net4.7/FormModels/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/net4.7/FormModels/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 322-325
+samples/client/petstore/csharp/generichost/net4.7/FormModels/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 1047-1050,1056-1059,1078-1081,1088-1091,1110-1113,1153-1156,1213-1216,1221-1224
+samples/client/petstore/csharp/generichost/net4.7/OneOf/.openapi-generator/FILES
+  h_8d0f094ade234d 24
+samples/client/petstore/csharp/generichost/net4.7/OneOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,44-46,48
+samples/client/petstore/csharp/generichost/net4.7/Petstore/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net4.7/Petstore/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48
+samples/client/petstore/csharp/generichost/net4.7/Petstore/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/net4.7/Petstore/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/net4.7/Petstore/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/net4.7/Petstore/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/net4.7/Petstore/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 411-414
+samples/client/petstore/csharp/generichost/net4.7/Petstore/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2229-2232,2238-2241,2259-2262,2269-2272,2291-2294,2331-2334,2389-2392,2397-2400
+samples/client/petstore/csharp/generichost/net4.7/UseDateTimeForDate/.openapi-generator/FILES
+  h_8d0f094ade234d 21
+samples/client/petstore/csharp/generichost/net4.7/UseDateTimeForDate/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-51
+samples/client/petstore/csharp/generichost/net4.7/UseDateTimeForDate/src/Org.OpenAPITools/Model/NowGet200Response.cs
+  h_8d0f094ade234d 197-200,203-206
+samples/client/petstore/csharp/generichost/net4.8/AllOf/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net4.8/AllOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,44-46,48
+samples/client/petstore/csharp/generichost/net4.8/AnyOf/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net4.8/AnyOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,44-46,48
+samples/client/petstore/csharp/generichost/net4.8/AnyOfNoCompare/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net4.8/AnyOfNoCompare/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-51
+samples/client/petstore/csharp/generichost/net4.8/FormModels/.openapi-generator/FILES
+  h_8d0f094ade234d 164
+samples/client/petstore/csharp/generichost/net4.8/FormModels/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48
+samples/client/petstore/csharp/generichost/net4.8/FormModels/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/net4.8/FormModels/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/net4.8/FormModels/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/net4.8/FormModels/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/net4.8/FormModels/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 322-325
+samples/client/petstore/csharp/generichost/net4.8/FormModels/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 1047-1050,1056-1059,1078-1081,1088-1091,1110-1113,1153-1156,1213-1216,1221-1224
+samples/client/petstore/csharp/generichost/net4.8/OneOf/.openapi-generator/FILES
+  h_8d0f094ade234d 24
+samples/client/petstore/csharp/generichost/net4.8/OneOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-51
+samples/client/petstore/csharp/generichost/net4.8/Petstore/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net4.8/Petstore/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48
+samples/client/petstore/csharp/generichost/net4.8/Petstore/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/net4.8/Petstore/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/net4.8/Petstore/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/net4.8/Petstore/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/net4.8/Petstore/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 411-414
+samples/client/petstore/csharp/generichost/net4.8/Petstore/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2229-2232,2238-2241,2259-2262,2269-2272,2291-2294,2331-2334,2389-2392,2397-2400
+samples/client/petstore/csharp/generichost/net4.8/UseDateTimeForDate/.openapi-generator/FILES
+  h_8d0f094ade234d 21
+samples/client/petstore/csharp/generichost/net4.8/UseDateTimeForDate/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-51
+samples/client/petstore/csharp/generichost/net4.8/UseDateTimeForDate/src/Org.OpenAPITools/Model/NowGet200Response.cs
+  h_8d0f094ade234d 197-200,203-206
+samples/client/petstore/csharp/generichost/net8/AllOf/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net8/AllOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net8/AnyOf/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net8/AnyOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net8/AnyOfNoCompare/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net8/AnyOfNoCompare/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net8/FormModels/.openapi-generator/FILES
+  h_8d0f094ade234d 164
+samples/client/petstore/csharp/generichost/net8/FormModels/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net8/FormModels/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/net8/FormModels/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/net8/FormModels/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/net8/FormModels/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/net8/FormModels/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 322-325
+samples/client/petstore/csharp/generichost/net8/FormModels/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 1047-1050,1056-1059,1078-1081,1088-1091,1110-1113,1153-1156,1213-1216,1221-1224
+samples/client/petstore/csharp/generichost/net8/NullReferenceTypes/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net8/NullReferenceTypes/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net8/NullReferenceTypes/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 182-185
+samples/client/petstore/csharp/generichost/net8/NullReferenceTypes/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1015-1018,1032-1035
+samples/client/petstore/csharp/generichost/net8/NullReferenceTypes/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 266-269
+samples/client/petstore/csharp/generichost/net8/NullReferenceTypes/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 435-438,444-447
+samples/client/petstore/csharp/generichost/net8/NullReferenceTypes/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 413-416
+samples/client/petstore/csharp/generichost/net8/NullReferenceTypes/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2231-2234,2240-2243,2261-2264,2271-2274,2293-2296,2333-2336,2391-2394,2399-2402
+samples/client/petstore/csharp/generichost/net8/OneOf/.openapi-generator/FILES
+  h_8d0f094ade234d 24
+samples/client/petstore/csharp/generichost/net8/OneOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net8/Petstore/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net8/Petstore/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net8/Petstore/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/net8/Petstore/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/net8/Petstore/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/net8/Petstore/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/net8/Petstore/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 411-414
+samples/client/petstore/csharp/generichost/net8/Petstore/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2229-2232,2238-2241,2259-2262,2269-2272,2291-2294,2331-2334,2389-2392,2397-2400
+samples/client/petstore/csharp/generichost/net8/SourceGeneration/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net8/SourceGeneration/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net8/SourceGeneration/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 183-186
+samples/client/petstore/csharp/generichost/net8/SourceGeneration/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1016-1019,1033-1036
+samples/client/petstore/csharp/generichost/net8/SourceGeneration/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 267-270
+samples/client/petstore/csharp/generichost/net8/SourceGeneration/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 436-439,445-448
+samples/client/petstore/csharp/generichost/net8/SourceGeneration/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 414-417
+samples/client/petstore/csharp/generichost/net8/SourceGeneration/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2232-2235,2241-2244,2262-2265,2272-2275,2294-2297,2334-2337,2392-2395,2400-2403
+samples/client/petstore/csharp/generichost/net8/UseDateTimeForDate/.openapi-generator/FILES
+  h_8d0f094ade234d 21
+samples/client/petstore/csharp/generichost/net8/UseDateTimeForDate/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 2,4,17,19,22,24-27,29-34,37,39-42,45-46,48
+samples/client/petstore/csharp/generichost/net8/UseDateTimeForDate/src/Org.OpenAPITools/Model/NowGet200Response.cs
+  h_8d0f094ade234d 199-202,205-208
+samples/client/petstore/csharp/generichost/net9/AllOf/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net9/AllOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 17,19,22,24-27,29-34,37,39-42,45-46,48,52,54,56-63
+samples/client/petstore/csharp/generichost/net9/AnyOf/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net9/AnyOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net9/AnyOfNoCompare/.openapi-generator/FILES
+  h_8d0f094ade234d 23
+samples/client/petstore/csharp/generichost/net9/AnyOfNoCompare/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net9/FormModels/.openapi-generator/FILES
+  h_8d0f094ade234d 164
+samples/client/petstore/csharp/generichost/net9/FormModels/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net9/FormModels/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/net9/FormModels/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/net9/FormModels/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/net9/FormModels/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/net9/FormModels/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 322-325
+samples/client/petstore/csharp/generichost/net9/FormModels/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 1047-1050,1056-1059,1078-1081,1088-1091,1110-1113,1153-1156,1213-1216,1221-1224
+samples/client/petstore/csharp/generichost/net9/NullReferenceTypes/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net9/NullReferenceTypes/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net9/NullReferenceTypes/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 182-185
+samples/client/petstore/csharp/generichost/net9/NullReferenceTypes/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1015-1018,1032-1035
+samples/client/petstore/csharp/generichost/net9/NullReferenceTypes/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 266-269
+samples/client/petstore/csharp/generichost/net9/NullReferenceTypes/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 435-438,444-447
+samples/client/petstore/csharp/generichost/net9/NullReferenceTypes/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 413-416
+samples/client/petstore/csharp/generichost/net9/NullReferenceTypes/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2231-2234,2240-2243,2261-2264,2271-2274,2293-2296,2333-2336,2391-2394,2399-2402
+samples/client/petstore/csharp/generichost/net9/OneOf/.openapi-generator/FILES
+  h_8d0f094ade234d 24
+samples/client/petstore/csharp/generichost/net9/OneOf/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net9/Petstore/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net9/Petstore/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net9/Petstore/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/net9/Petstore/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/net9/Petstore/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/net9/Petstore/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/net9/Petstore/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 411-414
+samples/client/petstore/csharp/generichost/net9/Petstore/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2229-2232,2238-2241,2259-2262,2269-2272,2291-2294,2331-2334,2389-2392,2397-2400
+samples/client/petstore/csharp/generichost/net9/SourceGeneration/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/net9/SourceGeneration/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-66
+samples/client/petstore/csharp/generichost/net9/SourceGeneration/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 183-186
+samples/client/petstore/csharp/generichost/net9/SourceGeneration/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1016-1019,1033-1036
+samples/client/petstore/csharp/generichost/net9/SourceGeneration/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 267-270
+samples/client/petstore/csharp/generichost/net9/SourceGeneration/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 436-439,445-448
+samples/client/petstore/csharp/generichost/net9/SourceGeneration/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 414-417
+samples/client/petstore/csharp/generichost/net9/SourceGeneration/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2232-2235,2241-2244,2262-2265,2272-2275,2294-2297,2334-2337,2392-2395,2400-2403
+samples/client/petstore/csharp/generichost/net9/UseDateTimeForDate/.openapi-generator/FILES
+  h_8d0f094ade234d 21
+samples/client/petstore/csharp/generichost/net9/UseDateTimeForDate/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-51
+samples/client/petstore/csharp/generichost/net9/UseDateTimeForDate/src/Org.OpenAPITools/Model/NowGet200Response.cs
+  h_8d0f094ade234d 199-202,205-208
+samples/client/petstore/csharp/generichost/standard2.0/Petstore/.openapi-generator/FILES
+  h_8d0f094ade234d 139
+samples/client/petstore/csharp/generichost/standard2.0/Petstore/src/Org.OpenAPITools/Client/DateTimeFormatHelper.cs
+  h_8d0f094ade234d 1-51
+samples/client/petstore/csharp/generichost/standard2.0/Petstore/src/Org.OpenAPITools/Model/DateOnlyClass.cs
+  h_8d0f094ade234d 180-183
+samples/client/petstore/csharp/generichost/standard2.0/Petstore/src/Org.OpenAPITools/Model/FormatTest.cs
+  h_8d0f094ade234d 1013-1016,1030-1033
+samples/client/petstore/csharp/generichost/standard2.0/Petstore/src/Org.OpenAPITools/Model/MixedPropertiesAndAdditionalPropertiesClass.cs
+  h_8d0f094ade234d 264-267
+samples/client/petstore/csharp/generichost/standard2.0/Petstore/src/Org.OpenAPITools/Model/NullableClass.cs
+  h_8d0f094ade234d 433-436,442-445
+samples/client/petstore/csharp/generichost/standard2.0/Petstore/src/Org.OpenAPITools/Model/Order.cs
+  h_8d0f094ade234d 411-414
+samples/client/petstore/csharp/generichost/standard2.0/Petstore/src/Org.OpenAPITools/Model/RequiredClass.cs
+  h_8d0f094ade234d 2229-2232,2238-2241,2259-2262,2269-2272,2291-2294,2331-2334,2389-2392,2397-2400
+samples/client/petstore/csharp/httpclient/net10/Petstore-nonPublicApi/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/httpclient/net10/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/httpclient/net9/Petstore-nonPublicApi/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/httpclient/net9/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/httpclient/standard2.0/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net10/EnumMappings/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net10/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net4.7/MultipleFrameworks/src/Org.OpenAPITools.Test/Client/ThrowOnAnyErrorTests.cs
+  h_8d0f094ade234d 1-8,10,12,14-17,19,21-23,25-41,43,45-47,50,52-56
+samples/client/petstore/csharp/restsharp/net4.7/MultipleFrameworks/src/Org.OpenAPITools/Client/ApiClient.cs
+  h_8d0f094ade234d 471,497-502,574-577
+samples/client/petstore/csharp/restsharp/net4.7/MultipleFrameworks/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net4.7/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net4.8/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net8/EnumMappings/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net8/ParameterMappings/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net8/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net8/UseDateTimeForDate/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net8/useVirtualForHooks/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/net9/EnumMappings/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/standard2.0/ConditionalSerialization/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/restsharp/standard2.0/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/unityWebRequest/net10/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/unityWebRequest/net9/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/csharp/unityWebRequest/standard2.0/Petstore/src/Org.OpenAPITools/Client/ApiException.cs
+  h_8d0f094ade234d 60-70
+samples/client/petstore/spring-http-interface-bean-validation/src/main/java/org/openapitools/configuration/HttpInterfacesAbstractConfigurator.java
+  h_8d0f094ade234d 19,21
+samples/client/petstore/spring-http-interface-noResponseEntity/src/main/java/org/openapitools/configuration/HttpInterfacesAbstractConfigurator.java
+  h_8d0f094ade234d 19,21
+samples/client/petstore/spring-http-interface-oauth/src/main/java/org/openapitools/configuration/HttpInterfacesAbstractConfigurator.java
+  h_8d0f094ade234d 14,16
+samples/client/petstore/spring-http-interface-reactive-bean-validation/src/main/java/org/openapitools/configuration/HttpInterfacesAbstractConfigurator.java
+  h_8d0f094ade234d 19,21
+samples/client/petstore/spring-http-interface-reactive-noResponseEntity/src/main/java/org/openapitools/configuration/HttpInterfacesAbstractConfigurator.java
+  h_8d0f094ade234d 19,21
+samples/client/petstore/spring-http-interface-reactive/src/main/java/org/openapitools/configuration/HttpInterfacesAbstractConfigurator.java
+  h_8d0f094ade234d 19,21
+samples/client/petstore/spring-http-interface-springboot-4/src/main/java/org/openapitools/configuration/HttpInterfacesAbstractConfigurator.java
+  h_8d0f094ade234d 19,21
+samples/client/petstore/spring-http-interface-useHttpServiceProxyFactoryInterfacesConfigurator/src/main/java/org/openapitools/configuration/HttpInterfacesAbstractConfigurator.java
+  h_8d0f094ade234d 17,19
+samples/client/petstore/spring-http-interface/src/main/java/org/openapitools/configuration/HttpInterfacesAbstractConfigurator.java
+  h_8d0f094ade234d 19,21
+samples/client/petstore/swift6/alamofireLibrary/Sources/PetstoreClient/Infrastructure/AlamofireImplementations.swift
+  h_8d0f094ade234d 22-23,128,190,284,289-291,294-296,301-303,352,366,371-373,376-378,382
+samples/client/petstore/swift6/alamofireLibrary/Sources/PetstoreClient/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 146
+samples/client/petstore/swift6/apiNonStaticMethod/Sources/PetstoreClient/Infrastructure/APIs.swift
+  h_8d0f094ade234d 232-234
+samples/client/petstore/swift6/apiNonStaticMethod/Sources/PetstoreClient/Infrastructure/AlamofireImplementations.swift
+  h_8d0f094ade234d 22-23,128,190,284,289-291,294-296,301-303,352,366,371-373,376-378,382
+samples/client/petstore/swift6/apiNonStaticMethod/Sources/PetstoreClient/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 147
+samples/client/petstore/swift6/asyncAwaitLibrary/Sources/PetstoreClient/Infrastructure/APIs.swift
+  h_8d0f094ade234d 209-211
+samples/client/petstore/swift6/asyncAwaitLibrary/Sources/PetstoreClient/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 146
+samples/client/petstore/swift6/asyncAwaitLibrary/Sources/PetstoreClient/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/combineDeferredLibrary/PetstoreClient/Classes/OpenAPIs/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 146
+samples/client/petstore/swift6/combineDeferredLibrary/PetstoreClient/Classes/OpenAPIs/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/combineLibrary/Sources/CombineLibrary/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 146
+samples/client/petstore/swift6/combineLibrary/Sources/CombineLibrary/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/default/Sources/PetstoreClient/Infrastructure/APIs.swift
+  h_8d0f094ade234d 209-211
+samples/client/petstore/swift6/default/Sources/PetstoreClient/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 146
+samples/client/petstore/swift6/default/Sources/PetstoreClient/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/default/SwaggerClientTests/SwaggerClient.xcodeproj/project.pbxproj
+  h_8d0f094ade234d 22,37,122,248
+samples/client/petstore/swift6/default/SwaggerClientTests/SwaggerClientTests/DecimalEncodingTests.swift
+  h_8d0f094ade234d 1-36
+samples/client/petstore/swift6/objcCompatible/Sources/PetstoreClient/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 146
+samples/client/petstore/swift6/objcCompatible/Sources/PetstoreClient/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/oneOf/PetstoreClient/Classes/OpenAPIs/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 146
+samples/client/petstore/swift6/oneOf/PetstoreClient/Classes/OpenAPIs/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/promisekitLibrary/PetstoreClient/Classes/OpenAPIs/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 147
+samples/client/petstore/swift6/promisekitLibrary/PetstoreClient/Classes/OpenAPIs/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/resultLibrary/PetstoreClient/Classes/OpenAPIs/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 146
+samples/client/petstore/swift6/resultLibrary/PetstoreClient/Classes/OpenAPIs/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/rxswiftLibrary/PetstoreClient/Classes/OpenAPIs/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/urlsessionLibrary/Sources/PetstoreClient/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 146
+samples/client/petstore/swift6/urlsessionLibrary/Sources/PetstoreClient/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/validation/PetstoreClient/Classes/OpenAPIs/Infrastructure/APIs.swift
+  h_8d0f094ade234d 209-211
+samples/client/petstore/swift6/validation/PetstoreClient/Classes/OpenAPIs/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 146
+samples/client/petstore/swift6/validation/PetstoreClient/Classes/OpenAPIs/Infrastructure/URLSessionImplementations.swift
+  h_8d0f094ade234d 204-209,547-549,613,628-635
+samples/client/petstore/swift6/vaporLibrary/Sources/PetstoreClient/Infrastructure/Extensions.swift
+  h_8d0f094ade234d 59
+samples/client/petstore/typescript-angular-v19/package-lock.json
+  h_8d0f094ade234d 25,38-40,44-47,54-56,60-63,70-72,76-79,86-88,96-98,102-105,112-114,118-121,128-130,134-137,144-146,150-153,160-162,166-169,176-178,182-185,192-194,198-201,208-210,214,221-223,227,234-236,240,790-792,796,799,809-811,815,818,862-864,868-870,873-874,876,881,883,885,897-899,903,916-918,922,925,3481-3483,3487,3490,4480-4482,4486,4494-4497,4502,4535-4537,4542,4544-4545,4547-4552,4554-4564,4574-4576,4626-4628,4633-4635,4651-4652,4658,4669-4682,4737-4739,4754-4756,4761-4764,4808-4810,4813-4815,4817-4852,4929-4931,4935,4940-4958,5422-5424,5439-5441,5462-5464,5468,5482-5484,5486,5488,5492-5494,5502-5504,5508,5545-5547,5557,5563-5585,5587-5589,5593-5595,5598,5605-5607,5611,5614,5634-5636,5638,5640,5644-5646,5650,5670-5672,5680,6823-6825,6829-6830,6840-6842,6846,6849,6901-6903,7005-7007,7014,7018-7020,7024,7565-7567,7613-7615,7619-7632,8119-8151,8154-8157,8159,8161,8164,8168-8170,8174-8176,8179,8186-8188,8196-8198,8202,8205,9547-9549,9611-9613,9616-9619,9630-9647,10172-10174,10182-10184,10195-10197,10291-10293,10448-10470,10472-10474,10478,10481,10555-10557,10956-10958,11889-11902,11904-11906,11909-11911,11913-11917,12125-12127,12129,12148-12150,12155,12162-12180,12184-12186,12188,12250-12252,12256,12440-12442,12452,12454,12481-12483,12485,12487-12497,12501-12503,12507,12605-12607,12678-12680,12890-12892,12931-12933,12937,13126-13128,13136,13143-13145,13441-13443,13452-13455,13931-13933,14124-14126,14361-14363,14368-14369,14381-14383,14388,14583-14585,14589,14685-14687,14696-14698,14735-14737,14883-14885,16032-16034,16041-16043,16047
+samples/client/petstore/typescript-angular-v19/package.json
+  h_8d0f094ade234d 27
+samples/client/petstore/typescript-axios/tests/with-complex-headers/package-lock.json
+  h_8d0f094ade234d 36,2466-2468
+samples/openapi3/client/petstore/kotlin-jvm-retrofit2-coroutines/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/openapi3/server/petstore/spring-boot-records/.openapi-generator-ignore
+  h_8d0f094ade234d 1-23
+samples/openapi3/server/petstore/spring-boot-records/.openapi-generator/FILES
+  h_8d0f094ade234d 1-27
+samples/openapi3/server/petstore/spring-boot-records/.openapi-generator/VERSION
+  h_8d0f094ade234d 1
+samples/openapi3/server/petstore/spring-boot-records/README.md
+  h_8d0f094ade234d 1-21
+samples/openapi3/server/petstore/spring-boot-records/pom.xml
+  h_8d0f094ade234d 1-78
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/OpenApiGeneratorApplication.java
+  h_8d0f094ade234d 1-30
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/RFC3339DateFormat.java
+  h_8d0f094ade234d 1-38
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/AccountsApi.java
+  h_8d0f094ade234d 1-82
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/AccountsApiController.java
+  h_8d0f094ade234d 1-46
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/ApiUtil.java
+  h_8d0f094ade234d 1,3,5-6,8-18
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/CountersApi.java
+  h_8d0f094ade234d 2-4,6,8-27,29-34,36-39,41-43,45-57,59-78,81
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/CountersApiController.java
+  h_8d0f094ade234d 1-46
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/PetsApi.java
+  h_8d0f094ade234d 1-121
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/PetsApiController.java
+  h_8d0f094ade234d 1-46
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/ShapesApi.java
+  h_8d0f094ade234d 2-4,6,8-27,29-34,36-39,41-43,45-57,59-78,81
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/ShapesApiController.java
+  h_8d0f094ade234d 1-46
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/VehiclesApi.java
+  h_8d0f094ade234d 1-82
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/api/VehiclesApiController.java
+  h_8d0f094ade234d 1-46
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/configuration/EnumConverterConfiguration.java
+  h_8d0f094ade234d 1,3-5,7,9,11-13,15-33,35
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/configuration/HomeController.java
+  h_8d0f094ade234d 1-20
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/configuration/SpringDocConfiguration.java
+  h_8d0f094ade234d 1-27
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/Account.java
+  h_8d0f094ade234d 1-57
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/Car.java
+  h_8d0f094ade234d 1-112
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/Circle.java
+  h_8d0f094ade234d 1-95
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/Counters.java
+  h_8d0f094ade234d 1-24,27-28,30-67,69-71,73-86,88-94,96-126,128
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/Filter.java
+  h_8d0f094ade234d 1-111
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/Owner.java
+  h_8d0f094ade234d 1-41
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/Pet.java
+  h_8d0f094ade234d 1-175
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/PetKind.java
+  h_8d0f094ade234d 1-56
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/Shape.java
+  h_8d0f094ade234d 1-26
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/Square.java
+  h_8d0f094ade234d 1-95
+samples/openapi3/server/petstore/spring-boot-records/src/main/java/org/openapitools/model/Vehicle.java
+  h_8d0f094ade234d 1-133
+samples/openapi3/server/petstore/spring-boot-records/src/main/resources/application.properties
+  h_8d0f094ade234d 1-3
+samples/openapi3/server/petstore/spring-boot-records/src/main/resources/openapi.yaml
+  h_8d0f094ade234d 1-295
+samples/openapi3/server/petstore/spring-boot-records/src/test/java/org/openapitools/OpenApiGeneratorApplicationTests.java
+  h_8d0f094ade234d 1-13
+samples/openapi3/server/petstore/spring-boot-records/src/test/java/org/openapitools/model/RecordModelsTest.java
+  h_8d0f094ade234d 1-163
+samples/schema/petstore/ktorm-modelMutable/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/server/others/kotlin-server/jaxrs-spec-array-response/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/server/petstore/jaxrs-resteasy/default/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/server/petstore/jaxrs-resteasy/eap-java8/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/server/petstore/jaxrs-resteasy/eap-joda/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/server/petstore/jaxrs-resteasy/eap/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/server/petstore/jaxrs-resteasy/java8/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/server/petstore/jaxrs-resteasy/joda/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/server/petstore/kotlin-server/javalin/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/server/petstore/kotlin-server/jaxrs-spec-mutiny/build/reports/problems/problems-report.html
+  h_8d0f094ade234d 1-659
+samples/server/petstore/rust-axum/output/apikey-authorization/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/apikey-authorization/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/apikey-authorization/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/apikey-authorization/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/apikey-auths/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/apikey-auths/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/apikey-auths/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/apikey-auths/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/multipart-v3/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/multipart-v3/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/multipart-v3/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/multipart-v3/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/openapi-v3/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/openapi-v3/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/openapi-v3/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/openapi-v3/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/ops-v3/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/ops-v3/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/ops-v3/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/ops-v3/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/petstore-with-fake-endpoints-models-for-testing/Cargo.toml
+  h_8d0f094ade234d 13-25,35-37,42,44,51-53,57,62-63
+samples/server/petstore/rust-axum/output/petstore-with-fake-endpoints-models-for-testing/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/petstore-with-fake-endpoints-models-for-testing/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/petstore-with-fake-endpoints-models-for-testing/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/petstore/Cargo.toml
+  h_8d0f094ade234d 12-24,34-36,41,43,50-52,56,61-62
+samples/server/petstore/rust-axum/output/petstore/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/petstore/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/petstore/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/ping-bearer-auth/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/ping-bearer-auth/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/ping-bearer-auth/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/ping-bearer-auth/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/rust-axum-array-params-test/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/rust-axum-array-params-test/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/rust-axum-array-params-test/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/rust-axum-array-params-test/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/rust-axum-discriminator-enum-ref/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/rust-axum-discriminator-enum-ref/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/rust-axum-discriminator-enum-ref/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/rust-axum-discriminator-enum-ref/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88,97-98,100,102,105,108,110-113,118,121,124-125,127,138,141,149-150,163-165,173-174,178,183,194-196,199-200,205,208,211-213,218,225,230,235,247-250,252-256,259-272,274-278,282,285,288-291,302,305,313-314,328,337-338,341-344,347,358-360,363-364,369,372,376,382,389,395,400,413-415,420,423,426,428,435,439,441-442,444,449,452,456,458,469,472,481,494,507,512,523,528-529,534,537,540,545,552,557,562,574,577,580,582-583,587,590,605,608,616,630,640,645,656,661,666,669,673,679,686,692,697,710-712,715-718,720,723-732,736-1142,1146-1292,1303,1306,1314-1316,1330,1339-1348,1352,1363-1378,1383,1386,1390,1396,1403,1408-1415,1417,1425-1479,1871-2054
+samples/server/petstore/rust-axum/output/rust-axum-discriminator-enum-ref/src/types.rs
+  h_8d0f094ade234d 791-823
+samples/server/petstore/rust-axum/output/rust-axum-discriminator-enum-ref/tests/discriminator_multi_mapping.rs
+  h_8d0f094ade234d 1-111
+samples/server/petstore/rust-axum/output/rust-axum-header-uuid/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/rust-axum-header-uuid/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/rust-axum-header-uuid/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/rust-axum-header-uuid/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/rust-axum-integer-types-test/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/rust-axum-integer-types-test/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/rust-axum-integer-types-test/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/rust-axum-integer-types-test/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/rust-axum-oneof/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/rust-axum-oneof/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/rust-axum-oneof/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/rust-axum-oneof/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/rust-axum-sse/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/rust-axum-sse/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/rust-axum-sse/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/rust-axum-sse/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/rust-axum-test/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/rust-axum-test/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/rust-axum-test/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/rust-axum-test/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+samples/server/petstore/rust-axum/output/rust-axum-validation-test/Cargo.toml
+  h_8d0f094ade234d 11-23,33-35,40,42,49-51,55,60-61
+samples/server/petstore/rust-axum/output/rust-axum-validation-test/README.md
+  h_8d0f094ade234d 32
+samples/server/petstore/rust-axum/output/rust-axum-validation-test/src/lib.rs
+  h_8d0f094ade234d 17,26
+samples/server/petstore/rust-axum/output/rust-axum-validation-test/src/models.rs
+  h_8d0f094ade234d 3,11,29-40,43,52,63,77,88
+website/yarn.lock
+  h_8d0f094ade234d 7061-7063
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "18d122a3aad065df88c2b6626f1fd04462e8f6c7",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
