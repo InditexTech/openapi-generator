@@ -1,0 +1,150 @@
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/.openapi-generator/VERSION
+  h_8d0f094ade234d 1
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/README.md
+  h_8d0f094ade234d 7
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/build.gradle
+  h_8d0f094ade234d 23
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/pom.xml
+  h_8d0f094ade234d 257
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 65
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ExceptionProvider.java
+  h_8d0f094ade234d 34
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/JavaTimeFormatter.java
+  h_8d0f094ade234d 23
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/RFC3339DateFormat.java
+  h_8d0f094ade234d 24
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ServerConfiguration.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ServerVariable.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/StringUtil.java
+  h_8d0f094ade234d 19
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/FileApi.java
+  h_8d0f094ade234d 27,80
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/FooApi.java
+  h_8d0f094ade234d 29,86
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/RequiredAndNullableApi.java
+  h_8d0f094ade234d 27,80
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/UploadApi.java
+  h_8d0f094ade234d 28,64,66,78,133,135,147
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/ApiKeyAuth.java
+  h_8d0f094ade234d 19
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/Authentication.java
+  h_8d0f094ade234d 19
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/HttpBasicAuth.java
+  h_8d0f094ade234d 22
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/HttpBearerAuth.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/model/FileContent.java
+  h_8d0f094ade234d 35
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/model/Foo.java
+  h_8d0f094ade234d 51
+samples/client/petstore/java/restclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/model/RequiredAndNullable.java
+  h_8d0f094ade234d 41
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/.openapi-generator/VERSION
+  h_8d0f094ade234d 1
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/README.md
+  h_8d0f094ade234d 7
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/build.gradle
+  h_8d0f094ade234d 23
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/pom.xml
+  h_8d0f094ade234d 267
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 71
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/BaseApi.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/JavaTimeFormatter.java
+  h_8d0f094ade234d 23
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/RFC3339DateFormat.java
+  h_8d0f094ade234d 24
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/RFC3339InstantDeserializer.java
+  h_8d0f094ade234d 31
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/RFC3339JavaTimeModule.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ServerConfiguration.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ServerVariable.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/FileApi.java
+  h_8d0f094ade234d 27,66,69,71-72,83-84,91-92,94-95,106
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/FooApi.java
+  h_8d0f094ade234d 29,69,72,74-75,81-83,94-95,102-103,105-106,117
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/RequiredAndNullableApi.java
+  h_8d0f094ade234d 27,66,68-69,82-83,90-91,93-94,107
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/UploadApi.java
+  h_8d0f094ade234d 28,61,63-64,66,68,79-80,104,106-107,109,111,122-123,130-131,133-134,145
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/ApiKeyAuth.java
+  h_8d0f094ade234d 19
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/Authentication.java
+  h_8d0f094ade234d 19
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/HttpBasicAuth.java
+  h_8d0f094ade234d 22
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/HttpBearerAuth.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/model/FileContent.java
+  h_8d0f094ade234d 35
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/model/Foo.java
+  h_8d0f094ade234d 51
+samples/client/petstore/java/resttemplate-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/model/RequiredAndNullable.java
+  h_8d0f094ade234d 41
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/.openapi-generator/VERSION
+  h_8d0f094ade234d 1
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/README.md
+  h_8d0f094ade234d 7
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/build.gradle
+  h_8d0f094ade234d 27
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/pom.xml
+  h_8d0f094ade234d 115
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ApiClient.java
+  h_8d0f094ade234d 82
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ExceptionProvider.java
+  h_8d0f094ade234d 34
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/JavaTimeFormatter.java
+  h_8d0f094ade234d 23
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/RFC3339DateFormat.java
+  h_8d0f094ade234d 24
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/RFC3339InstantDeserializer.java
+  h_8d0f094ade234d 31
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/RFC3339JavaTimeModule.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ServerConfiguration.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/ServerVariable.java
+  h_8d0f094ade234d 21
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/StringUtil.java
+  h_8d0f094ade234d 19
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/FileApi.java
+  h_8d0f094ade234d 29,63,67,69-70,81-82,94,107
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/FooApi.java
+  h_8d0f094ade234d 31,64,68,70-71,87-88,103,119
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/RequiredAndNullableApi.java
+  h_8d0f094ade234d 29,63,65,67-68,81-82,94,107
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/api/UploadApi.java
+  h_8d0f094ade234d 30,59,61,63-64,66,68,79-80,91,103,128,130,132-133,135,137,148-149,160,172
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/ApiKeyAuth.java
+  h_8d0f094ade234d 19
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/Authentication.java
+  h_8d0f094ade234d 19
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/HttpBasicAuth.java
+  h_8d0f094ade234d 22
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/auth/HttpBearerAuth.java
+  h_8d0f094ade234d 19
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/model/FileContent.java
+  h_8d0f094ade234d 34
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/model/Foo.java
+  h_8d0f094ade234d 50
+samples/client/petstore/java/webclient-springBoot4-jackson3-jspecify-optional-getters/src/main/java/org/openapitools/client/model/RequiredAndNullable.java
+  h_8d0f094ade234d 40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8dff5f8dfd83800d1e4a3a3430938c1d66c1fdbc",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
