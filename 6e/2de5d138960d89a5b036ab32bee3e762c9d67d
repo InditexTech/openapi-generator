@@ -1,0 +1,19 @@
+.github/workflows/samples-spring-jdk17.yaml
+  s_2560175d5bf2ba::t_1c0df3531cddf0 13,37,69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6e2de5d138960d89a5b036ab32bee3e762c9d67d",
+  "prompts": {},
+  "sessions": {
+    "s_2560175d5bf2ba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec6bfc4dbffeMThtIAp7zQf7w7",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
