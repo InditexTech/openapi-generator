@@ -1,0 +1,30 @@
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/.openapi-generator/VERSION
+  h_8d0f094ade234d 1
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/src/main/java/org/openapitools/api/FileApi.java
+  h_8d0f094ade234d 2,36
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/src/main/java/org/openapitools/api/FooApi.java
+  h_8d0f094ade234d 2,39
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/src/main/java/org/openapitools/api/RequiredAndNullableApi.java
+  h_8d0f094ade234d 2,36
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/src/main/java/org/openapitools/api/UploadApi.java
+  h_8d0f094ade234d 2,36
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/src/main/java/org/openapitools/api/UploadFilesApi.java
+  h_8d0f094ade234d 2,36
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/src/main/java/org/openapitools/model/FileContent.java
+  h_8d0f094ade234d 29
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/src/main/java/org/openapitools/model/Foo.java
+  h_8d0f094ade234d 34
+samples/openapi3/server/petstore/springboot-4-jspecify-optional-getters/src/main/java/org/openapitools/model/RequiredAndNullable.java
+  h_8d0f094ade234d 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ccd8dcf0824b0ad704b4c03f3adedf51710e0ad6",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
