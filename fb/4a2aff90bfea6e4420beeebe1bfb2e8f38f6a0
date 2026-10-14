@@ -1,0 +1,14 @@
+.github/workflows/samples-java-client-jdk17.yaml
+  h_8d0f094ade234d 8,10,12,33,35,37,66,74,84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fb4a2aff90bfea6e4420beeebe1bfb2e8f38f6a0",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
