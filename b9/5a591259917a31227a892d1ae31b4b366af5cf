@@ -1,0 +1,14 @@
+docs/generators/java-camel.md
+  h_8d0f094ade234d 130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b95a591259917a31227a892d1ae31b4b366af5cf",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
